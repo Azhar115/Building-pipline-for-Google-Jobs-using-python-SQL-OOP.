@@ -1,0 +1,170 @@
+{
+    "search_metadata": {
+        "id": "671f8e8dc82127fe464e6fa8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8b8333d84886f9a4/671f8e8dc82127fe464e6fa8.json",
+        "created_at": "2024-10-28 13:15:57 UTC",
+        "processed_at": "2024-10-28 13:15:57 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=barista+new+york&hl=en&chips=Job%20type:Part%20time&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/8b8333d84886f9a4/671f8e8dc82127fe464e6fa8.html",
+        "total_time_taken": 1.3
+    },
+    "search_parameters": {
+        "q": "barista new york",
+        "engine": "google_jobs",
+        "google_domain": "google.com",
+        "hl": "en",
+        "chips": "Job type:Part time"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dD0J7DDuU5mDMbDdgoR0zoATOpprCt5muCENWyViigsNRIGdxBvp22cV-1My2kkorjTxgI9kbrbQNq2p0SVdgBl1yFZe_7hSXJsIeigQoWkHaZQI9Ib0QqAbDtgPPSViecpLnKNaes83UpRZQ65FSaVfEwE4qNXbeOE_p-hpgJViqYC0S",
+                "q": "barista new york remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dD0J7DDuU5mDMbDdgoR0zoATOpprCt5muCENWyViigsNRIGdxBvp22cV-1My2kkorjTxgI9kbrbQNq2p0SVdgBl1yFZe_7hSXJsIeigQoWkHaZQI9Ib0QqAbDtgPPSViecpLnKNaes83UpRZQ65FSaVfEwE4qNXbeOE_p-hpgJViqYC0S&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+remote"
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d-dUbJiTcK4yC2xYcozTdrjdux7neFUIjcFT5iawvg8Ih08mwJuA8Zk24UP3dXWJyvEJBVC-tlF2QpHcho5qr_bWDyQj9eq7yAgOKjFrfB7L_bflmIhpGKbfWCSsUt5hc5nRstbD7m1tMpeo-BYxDUuGZOQgUgO429X7uVez8DzYU3p3rDrb-qmFXO_wcNPXOCa29EA",
+                "q": "barista new york no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d-dUbJiTcK4yC2xYcozTdrjdux7neFUIjcFT5iawvg8Ih08mwJuA8Zk24UP3dXWJyvEJBVC-tlF2QpHcho5qr_bWDyQj9eq7yAgOKjFrfB7L_bflmIhpGKbfWCSsUt5hc5nRstbD7m1tMpeo-BYxDUuGZOQgUgO429X7uVez8DzYU3p3rDrb-qmFXO_wcNPXOCa29EA&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+no+degree"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMgthn53iKO5sJdWJYoMbmEC5lvughpqqO9gC_tbxE1zapuHVnm3WHQXDKfMqgKckKOSpks-evdY1vUkGnDjthmf4Jxr5zU-AnLRSj9gbxsFKo2KJ3LoyjVq08Q3cOVF9xYKYE3AW27qoKEOudBK8NfNMI1p7a_iZA7uwJXSa6lLxhgejlTLftLJx26b-EMvd9dJMSNQc80BJL_3bgYx7xmbuD5sllnKdVSj9wJ3bRFoV9Ftq6EG82BwHX6GRRxrH1VQucpPugrfWs3HuOIvhAI_6YYw8SqTsXF-ZreqEeLm2H0M_NsjNe6VviDoTbdhrK2ScC9CL97S7QWGotgn2-hbaLA9j5EoeiACjbteqHLFCbxPHZs",
+                        "q": "barista new york since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+since+yesterday&uds=ADvngMgthn53iKO5sJdWJYoMbmEC5lvughpqqO9gC_tbxE1zapuHVnm3WHQXDKfMqgKckKOSpks-evdY1vUkGnDjthmf4Jxr5zU-AnLRSj9gbxsFKo2KJ3LoyjVq08Q3cOVF9xYKYE3AW27qoKEOudBK8NfNMI1p7a_iZA7uwJXSa6lLxhgejlTLftLJx26b-EMvd9dJMSNQc80BJL_3bgYx7xmbuD5sllnKdVSj9wJ3bRFoV9Ftq6EG82BwHX6GRRxrH1VQucpPugrfWs3HuOIvhAI_6YYw8SqTsXF-ZreqEeLm2H0M_NsjNe6VviDoTbdhrK2ScC9CL97S7QWGotgn2-hbaLA9j5EoeiACjbteqHLFCbxPHZs&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMhGIcAnsrVpxv2zw-3ku0HGmhF0GqrLDY_g117CiL7iY6OQw5O4vLK8ImnRCUu6KMAw9JXFWBtSS9uC9nYp3-OpnjJKheRsOUJQX2OnqWlWk3kZfIQT5fqaTWYThL3LocHogJtHiHygtMMFzym257T5pyo9oJ2uMLQx60SUMLvNnDV0mY8-f_UnIFFvuqdEFFgvxF1Yhpw6-Bj8XKN5DwItjzolOxfH2RbYTt3dHiOXl9npxLJSyhN7Eu_fhjy_iF0kty_tQ2HbKqFI0076rGcucsOt2lHoNXMCOcGbzkrOIkRLb2UW4bozgdl17Vhx-alf4mqXtjq5Fc6wW3rG6p5TYBOK3xuPd-aegJaZKOCaJp5m-mY",
+                        "q": "barista new york in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+in+the+last+3+days&uds=ADvngMhGIcAnsrVpxv2zw-3ku0HGmhF0GqrLDY_g117CiL7iY6OQw5O4vLK8ImnRCUu6KMAw9JXFWBtSS9uC9nYp3-OpnjJKheRsOUJQX2OnqWlWk3kZfIQT5fqaTWYThL3LocHogJtHiHygtMMFzym257T5pyo9oJ2uMLQx60SUMLvNnDV0mY8-f_UnIFFvuqdEFFgvxF1Yhpw6-Bj8XKN5DwItjzolOxfH2RbYTt3dHiOXl9npxLJSyhN7Eu_fhjy_iF0kty_tQ2HbKqFI0076rGcucsOt2lHoNXMCOcGbzkrOIkRLb2UW4bozgdl17Vhx-alf4mqXtjq5Fc6wW3rG6p5TYBOK3xuPd-aegJaZKOCaJp5m-mY&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMhlRclouxOjJ0nmWi_HNNQCBP4xUSioqyx0_iMUxlfqO1Xricq1fKkdqOarmce1t7Lgl4mqyq1QVOx7kCAO85Sdmx6SXMvzhB9Xmkz38-SHLm-90OpBZKeP7BW_t957hb-gGTRsYEFb1nui7nWOM4sz-BJa21B2fSj1n3MAO1v_qRpXcJ698OiiT_Tth_qfwRPHdD8xjlbOTdI276-cMwyM44wKdBDp2mladwRez02igcoAKIQEhx9hDVftP4rFKk0Pf_pIv3qD8TB9brk0HcxQvd20dCkW3CKfvGTzXfZF4wYkGwVogmYa1SM_nuv6Jpp-sUG7We7z3Vs337AsmBI28mt5COGIWjIbflBn0AhvIqQo6VtRpU0fE31ErOw3SKpRyvQ6",
+                        "q": "barista new york in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+in+the+last+week&uds=ADvngMhlRclouxOjJ0nmWi_HNNQCBP4xUSioqyx0_iMUxlfqO1Xricq1fKkdqOarmce1t7Lgl4mqyq1QVOx7kCAO85Sdmx6SXMvzhB9Xmkz38-SHLm-90OpBZKeP7BW_t957hb-gGTRsYEFb1nui7nWOM4sz-BJa21B2fSj1n3MAO1v_qRpXcJ698OiiT_Tth_qfwRPHdD8xjlbOTdI276-cMwyM44wKdBDp2mladwRez02igcoAKIQEhx9hDVftP4rFKk0Pf_pIv3qD8TB9brk0HcxQvd20dCkW3CKfvGTzXfZF4wYkGwVogmYa1SM_nuv6Jpp-sUG7We7z3Vs337AsmBI28mt5COGIWjIbflBn0AhvIqQo6VtRpU0fE31ErOw3SKpRyvQ6&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjzdzppSjTF0-6iKoox3j6-S1LO8LnSWyWIF45jOJKKIzUarudR1KxxsGfhc2rP7z4s7zSEoIs2uJO1LIqAiH3XfMPLwXQg5jjV0c_FIK6cRqtC7G1g-z3P45WAh38UHK8H1CI5ab7mGIwpoB2g64qXEOl0gapboE_3LfgmV_AKxVbDfiOobrRXgGdn83AVCX96LWCHm6g4ATNGNOQi_PGrABD8iMvb8KWUvb9-RRRNVMYBtRA9tmqHQzFD3pPNInyx2qr_tk0UxyneK6k9l5I9UDnKG2_r4meFIQGCK3MiTQ4tsMrGQJfDgbGcXvMbapGxcc6ukqTl2vNakXVnuNeSAERDYnXeQjifcyHz455sCP3MJiD7rQhbS6AnLnyNU9_oVbVW",
+                        "q": "barista new york in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+in+the+last+month&uds=ADvngMjzdzppSjTF0-6iKoox3j6-S1LO8LnSWyWIF45jOJKKIzUarudR1KxxsGfhc2rP7z4s7zSEoIs2uJO1LIqAiH3XfMPLwXQg5jjV0c_FIK6cRqtC7G1g-z3P45WAh38UHK8H1CI5ab7mGIwpoB2g64qXEOl0gapboE_3LfgmV_AKxVbDfiOobrRXgGdn83AVCX96LWCHm6g4ATNGNOQi_PGrABD8iMvb8KWUvb9-RRRNVMYBtRA9tmqHQzFD3pPNInyx2qr_tk0UxyneK6k9l5I9UDnKG2_r4meFIQGCK3MiTQ4tsMrGQJfDgbGcXvMbapGxcc6ukqTl2vNakXVnuNeSAERDYnXeQjifcyHz455sCP3MJiD7rQhbS6AnLnyNU9_oVbVW&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dplEpgb5ahVnfnwgxXjxHTOBQmGDeYj5IRPIHiOXa9WZB3AvVc1P9j4qGpryjFIc13BKooPeMn1o9baLnDFdStZ8zUyiTVZXSp9Hi16MPCKwcLCubzeMKJjeyixYQhRIaYAUNtmtPs4vQQZSdmymhE9GlLufsno0qqIeeIVBGqbMCqVQHx3T2EzWSMUqqTblDdDD4WoQNcwDwdyO8xqj3Y_RbCsYjT20nkXBTzYJSmDZeVq7NGxZjnwI9CQ0AgvtnBEsoy0BQupk-sfagA5TGwHFXwJsObM5gfLDrD1GcDsfrVQkcHfnvgoARLSR9_FAsJqSX_Q",
+                        "q": "barista new york full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dplEpgb5ahVnfnwgxXjxHTOBQmGDeYj5IRPIHiOXa9WZB3AvVc1P9j4qGpryjFIc13BKooPeMn1o9baLnDFdStZ8zUyiTVZXSp9Hi16MPCKwcLCubzeMKJjeyixYQhRIaYAUNtmtPs4vQQZSdmymhE9GlLufsno0qqIeeIVBGqbMCqVQHx3T2EzWSMUqqTblDdDD4WoQNcwDwdyO8xqj3Y_RbCsYjT20nkXBTzYJSmDZeVq7NGxZjnwI9CQ0AgvtnBEsoy0BQupk-sfagA5TGwHFXwJsObM5gfLDrD1GcDsfrVQkcHfnvgoARLSR9_FAsJqSX_Q&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dplEpgb5ahVnfnwgxXjxHTOBQmGDeYj5IRPIHiOXa9WZmH4UWkOx3owboV_jBQGrHCLtBGULa1eORdZLQxTx3Lr_NihLE7WVCxGNEPRhqcqJAvAAvX-ZB3ZM1NgTU8o30FwYLVTWs3i4aii5YR1veUWiPSm5GQgYzJr1P0YC0_r25-GZwx8t1wCa0sno8Z43xR1JKUk45sREPmEA0vIXLSuaZGEpjd7jvKlZ1MFNprNJwLdUPJ8InnPHmMqRn1EapcDzdSOx_1D6J3r5chHqr6FxnJqL2susZgJoXIRMBieerVkPe65RwMN9FD0daSGExJ9kqsg",
+                        "q": "barista new york part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dplEpgb5ahVnfnwgxXjxHTOBQmGDeYj5IRPIHiOXa9WZmH4UWkOx3owboV_jBQGrHCLtBGULa1eORdZLQxTx3Lr_NihLE7WVCxGNEPRhqcqJAvAAvX-ZB3ZM1NgTU8o30FwYLVTWs3i4aii5YR1veUWiPSm5GQgYzJr1P0YC0_r25-GZwx8t1wCa0sno8Z43xR1JKUk45sREPmEA0vIXLSuaZGEpjd7jvKlZ1MFNprNJwLdUPJ8InnPHmMqRn1EapcDzdSOx_1D6J3r5chHqr6FxnJqL2susZgJoXIRMBieerVkPe65RwMN9FD0daSGExJ9kqsg&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dBiwR1d_BB0QXA6N1VH4ZS9-1ygK10hf3fLFt5gJEpE1Skw5YCdqzuTHPC1acoVU74tfIz4mHJ23KMFFwshwcA0zY5SMlHVamHk5FGxI5Usp2xqgLheKnPj5ICddAwQO0PGf9i2UZUvaGWs1TBbDakFB2BI1UBnbvLHBEPkiHQ-7TrZMa6hePuisZHc3uUbIQhEKDReqlwjatJFo0vvhG-c-57Hylwr3Vi4dhNLqBTTW_31By52QksLMLFRetU-xSC3hxAV8Z6JalHfIWsjLUQfi8G2m_MhxVIqxsxg4JJWe9eIhyAdrwtk4f7GpmwLrVBzrMXA",
+                        "q": "barista new york contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dBiwR1d_BB0QXA6N1VH4ZS9-1ygK10hf3fLFt5gJEpE1Skw5YCdqzuTHPC1acoVU74tfIz4mHJ23KMFFwshwcA0zY5SMlHVamHk5FGxI5Usp2xqgLheKnPj5ICddAwQO0PGf9i2UZUvaGWs1TBbDakFB2BI1UBnbvLHBEPkiHQ-7TrZMa6hePuisZHc3uUbIQhEKDReqlwjatJFo0vvhG-c-57Hylwr3Vi4dhNLqBTTW_31By52QksLMLFRetU-xSC3hxAV8Z6JalHfIWsjLUQfi8G2m_MhxVIqxsxg4JJWe9eIhyAdrwtk4f7GpmwLrVBzrMXA&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dZkfoy6ilZg3WbYqfslVSK1Akft3Sz4ul1rt2HtWP1N9wmgLjK3Xv_vBIZMG_nqe9iZ6fktUYS24fyHO5K0LsBgEEA_w8GdJMfNizdrRUz51bH5-eDMbfLK4e0gRjt8gsWqs-LtpmR22DRxvj2ZF4NmaAENtXaY_DGXsHjstcQUAtuXfRYaYFmbYAbf0T-KXHXYY_9e5mZ-Kc_QMYrH580a9Z4vMquD6VR1msNoBZn73LjiqAKUbFYP6kid6i0cOMmwTCkPMVGsppiKey88BpGfBm3S4ZSAXrhNUDlowCV0knYyF89t0AHcoq_vVEgCm3wh-qlQ",
+                        "q": "barista new york internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dZkfoy6ilZg3WbYqfslVSK1Akft3Sz4ul1rt2HtWP1N9wmgLjK3Xv_vBIZMG_nqe9iZ6fktUYS24fyHO5K0LsBgEEA_w8GdJMfNizdrRUz51bH5-eDMbfLK4e0gRjt8gsWqs-LtpmR22DRxvj2ZF4NmaAENtXaY_DGXsHjstcQUAtuXfRYaYFmbYAbf0T-KXHXYY_9e5mZ-Kc_QMYrH580a9Z4vMquD6VR1msNoBZn73LjiqAKUbFYP6kid6i0cOMmwTCkPMVGsppiKey88BpGfBm3S4ZSAXrhNUDlowCV0knYyF89t0AHcoq_vVEgCm3wh-qlQ&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+internship"
+                }
+            ]
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dax1U7Pf8NODvbkUNpJHeY51HrQTm8Vcw7qT7nirHWntC72dap9LQolvCAPhEaJqzcGNSVwDvUkf_zcVvOjnVM3m4jrjheoOfgtaimSJEs0UyCzQCt7bimJ1Tz3PQUDZ7R-7tbAVQsu-gOCCGv-tS0ppRBpPeMH0s1RBV6mCFGBkfNuJ52v54KrzweyJ27VWSf_-rhg",
+                "q": "Barista salary New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Barista+salary+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dax1U7Pf8NODvbkUNpJHeY51HrQTm8Vcw7qT7nirHWntC72dap9LQolvCAPhEaJqzcGNSVwDvUkf_zcVvOjnVM3m4jrjheoOfgtaimSJEs0UyCzQCt7bimJ1Tz3PQUDZ7R-7tbAVQsu-gOCCGv-tS0ppRBpPeMH0s1RBV6mCFGBkfNuJ52v54KrzweyJ27VWSf_-rhg&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=Barista+salary+New+York"
+        },
+        {
+            "name": "Near me",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dD0J7DDuU5mDMbDdgoR0zoATOpprCt5muCENWyViigsNyFGLABMwqrqRuEZ9HyzwPKIuhq3lYiec89qC2cevb_srijhDTtM6YYPum59zeiYr8Ng9m1vG9KMegj9DQZwxQAJVoj0k99H_iypAmBRH25MWF7YLv_NuoMf5M4awWaMw52LgcpRjbGL5hbs_nLJ_QkByC5A",
+                "q": "Barista new york near me"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Barista+new+york+near+me&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dD0J7DDuU5mDMbDdgoR0zoATOpprCt5muCENWyViigsNyFGLABMwqrqRuEZ9HyzwPKIuhq3lYiec89qC2cevb_srijhDTtM6YYPum59zeiYr8Ng9m1vG9KMegj9DQZwxQAJVoj0k99H_iypAmBRH25MWF7YLv_NuoMf5M4awWaMw52LgcpRjbGL5hbs_nLJ_QkByC5A&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QxKsJegQIHRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=Barista+new+york+near+me"
+        },
+        {
+            "name": "City",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dRsscc1eCoGfrPNWcLEFzUCUcJowMJOde__jryZLpmUxx0f5Pl8GEM8RNNgz1Ixw_6G9KZcaXK4BNiWs16j86XcyYQ6xo7jdq5BB7NL04yRwYuh2Vbi1jqpp9pKKSYmnP_wSGSNOqHK7gF2NIVUlTBoQLS0c6PJ-LzF5VItoQI7RjYVoY",
+                "q": "Barista new york city"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Barista+new+york+city&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dRsscc1eCoGfrPNWcLEFzUCUcJowMJOde__jryZLpmUxx0f5Pl8GEM8RNNgz1Ixw_6G9KZcaXK4BNiWs16j86XcyYQ6xo7jdq5BB7NL04yRwYuh2Vbi1jqpp9pKKSYmnP_wSGSNOqHK7gF2NIVUlTBoQLS0c6PJ-LzF5VItoQI7RjYVoY&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QxKsJegQIGRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=Barista+new+york+city"
+        },
+        {
+            "name": "Bikini",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dD0J7DDuU5mDMbDdgoR0zoATOpprCt5muCENWyViigsP-ztckEJGyl3opVo1ODO0zSDYcwf-m41eykw6pZsTMPMIW0qXXglAAyDgDX7dEFr6ChR9PF163WFVNzlIlQlY87X5JKsdXhNPi9BEMo5IVUyqanzKi4CzHKlqxtqU2h5xBS00IxjhFdxm6hYsTcHObSULReA",
+                "q": "Bikini barista New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Bikini+barista+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dD0J7DDuU5mDMbDdgoR0zoATOpprCt5muCENWyViigsP-ztckEJGyl3opVo1ODO0zSDYcwf-m41eykw6pZsTMPMIW0qXXglAAyDgDX7dEFr6ChR9PF163WFVNzlIlQlY87X5JKsdXhNPi9BEMo5IVUyqanzKi4CzHKlqxtqU2h5xBS00IxjhFdxm6hYsTcHObSULReA&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QxKsJegQIHhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=Bikini+barista+New+York"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dSQGMtppJpc5R-6ZDUVFSJ9SjX9MDSDDbX5WkQdcbP9jYphcl0Zh5TK7hjO3xQ8xlNwogtisjBQQGGuXQeKjpv8Bn_AAPGme1P915am3y1AvyOZavO4dz1lnd-zbemAqHdUGXx_v63e6ztsAFQlr9wZ8YlgqPrbOZGplTbayW7ptm5_10vD5z78takFlT2uzAeQeHFQ",
+                "q": "Barista training New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Barista+training+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dSQGMtppJpc5R-6ZDUVFSJ9SjX9MDSDDbX5WkQdcbP9jYphcl0Zh5TK7hjO3xQ8xlNwogtisjBQQGGuXQeKjpv8Bn_AAPGme1P915am3y1AvyOZavO4dz1lnd-zbemAqHdUGXx_v63e6ztsAFQlr9wZ8YlgqPrbOZGplTbayW7ptm5_10vD5z78takFlT2uzAeQeHFQ&chips=Job+type:Part+time&udm=8&sa=X&ved=2ahUKEwip9OSnlLGJAxWW78kDHTJVBa4QxKsJegQIGhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=Job+type%3APart+time&engine=google_jobs&google_domain=google.com&hl=en&q=Barista+training+New+York"
+        }
+    ],
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

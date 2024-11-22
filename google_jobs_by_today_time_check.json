@@ -1,0 +1,170 @@
+{
+    "search_metadata": {
+        "id": "671f94903c863d534f5c0591",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6050ae7e49d96896/671f94903c863d534f5c0591.json",
+        "created_at": "2024-10-28 13:41:36 UTC",
+        "processed_at": "2024-10-28 13:41:36 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=barista+new+york&hl=en&chips=date_type:today&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/6050ae7e49d96896/671f94903c863d534f5c0591.html",
+        "total_time_taken": 0.82
+    },
+    "search_parameters": {
+        "q": "barista new york",
+        "engine": "google_jobs",
+        "google_domain": "google.com",
+        "hl": "en",
+        "chips": "date_type:today"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d3O0FzXBD91oqJHyV53PBZSuXPqMizDeMT83WpzPTN3gbb3_p-UaRcR-BphYJGnkR9iF4oNxl0x7TzzqDUdXhRkjt7T0xx98siMAKCSxnIqJefEIqgUwIltBy14gDUApw7dh-WFtw501wag8p5170UW8oDmQbFK3YSfqmRhaIdtngBGlR",
+                "q": "barista new york remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d3O0FzXBD91oqJHyV53PBZSuXPqMizDeMT83WpzPTN3gbb3_p-UaRcR-BphYJGnkR9iF4oNxl0x7TzzqDUdXhRkjt7T0xx98siMAKCSxnIqJefEIqgUwIltBy14gDUApw7dh-WFtw501wag8p5170UW8oDmQbFK3YSfqmRhaIdtngBGlR&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQxKsJegQIEhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+remote"
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAzVlh2u4QcFoTYBCdyK3vPXi_1XG3qfERN4_DDZhhSFM5k6j_Lw6g-egKjhCotwW3jpT9vaUmgkwtD04Fg21cYwaT4-qEiwV7Oy6CGoKo07z4NBHfpXbU4DvyM83mCCpp6t2nKnXCzpRzb42SgWPZN1kw4wUAppe1BfiSWuGVWVG1poB",
+                "q": "barista new york no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAzVlh2u4QcFoTYBCdyK3vPXi_1XG3qfERN4_DDZhhSFM5k6j_Lw6g-egKjhCotwW3jpT9vaUmgkwtD04Fg21cYwaT4-qEiwV7Oy6CGoKo07z4NBHfpXbU4DvyM83mCCpp6t2nKnXCzpRzb42SgWPZN1kw4wUAppe1BfiSWuGVWVG1poB&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+no+degree"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dMpN-eMrD0KqJqKTXmOmRbaYTorsMqbLfjnHPOyowSh2PVATsgD-bh9pBPNWSZZ1R3-LGfWeYWCrheLbGnVrcDsnPEtXmZ_IuW9G47_hSc2ji2Rseq3Vwk3lk_U1Puk3S4v3IS2D8gUzNLGDas0DbWNB4UhrCTkDhI6BiIxv9PKh99JEyqYpBkIhPzLYQPRKrPhCcIVoKSvFurpO1EiJZDO18DA5Nkm41Wnpkt641SBQ7tTaJxkNAUzr4RAmXCEMfW6juoXYiL4GeglK7H-ckV2k4CMMBQA6x8DuXc4z8HtD8zzY-FYsL3BO5zbmW2OqiMZsm8H2iQ_GNX-QO2EK9KFRma40",
+                        "q": "barista new york since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dMpN-eMrD0KqJqKTXmOmRbaYTorsMqbLfjnHPOyowSh2PVATsgD-bh9pBPNWSZZ1R3-LGfWeYWCrheLbGnVrcDsnPEtXmZ_IuW9G47_hSc2ji2Rseq3Vwk3lk_U1Puk3S4v3IS2D8gUzNLGDas0DbWNB4UhrCTkDhI6BiIxv9PKh99JEyqYpBkIhPzLYQPRKrPhCcIVoKSvFurpO1EiJZDO18DA5Nkm41Wnpkt641SBQ7tTaJxkNAUzr4RAmXCEMfW6juoXYiL4GeglK7H-ckV2k4CMMBQA6x8DuXc4z8HtD8zzY-FYsL3BO5zbmW2OqiMZsm8H2iQ_GNX-QO2EK9KFRma40&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dTPQGJkV-sI1kfR8p9n6QwXOMCHkxin8QMIzlxhUInTcZKcCnZpMhem-UD6Jc2jeimoSqFW6Sf0Oq9db9lSeXdCtFJSmpQ7C3Lv8ZYr0hXzftgPw03270DVk0loJPkwgXgM1VCZEBOngTyKwTuU1z74thMyaUlzcZKu7_5Xoe6IOzAiMFPy6qGgTy5wcSMz3dj9icnqFKM2k_CnB6trsz6ar_4t07ReZYArvFT7ZobYfKZ0XRR2OVYpBgcwfr-zdrbIE-yxHu2Ay87Mx5WXfkVL3bhFtZrkHZoelZ0sh8Y9bZsD6yfp2cXBoqIy16i_P7U78-NlSbca56lyvwZJDDQyR9FpM",
+                        "q": "barista new york in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dTPQGJkV-sI1kfR8p9n6QwXOMCHkxin8QMIzlxhUInTcZKcCnZpMhem-UD6Jc2jeimoSqFW6Sf0Oq9db9lSeXdCtFJSmpQ7C3Lv8ZYr0hXzftgPw03270DVk0loJPkwgXgM1VCZEBOngTyKwTuU1z74thMyaUlzcZKu7_5Xoe6IOzAiMFPy6qGgTy5wcSMz3dj9icnqFKM2k_CnB6trsz6ar_4t07ReZYArvFT7ZobYfKZ0XRR2OVYpBgcwfr-zdrbIE-yxHu2Ay87Mx5WXfkVL3bhFtZrkHZoelZ0sh8Y9bZsD6yfp2cXBoqIy16i_P7U78-NlSbca56lyvwZJDDQyR9FpM&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dMpN-eMrD0KqJqKTXmOmRbaYTorsMqbLfjnHPOyowSh3uyLJRi-2895NE4sSY0ZG1jISfM97oaWMMtcaw_N946B0zOicI5ZRctOm701ShlzkfxFmGr8KkqAUqN0lLfBRlZdzdINxgpE8VU6TStWiVL0IRZDfI4P7C5HQMe2VDpBFU5EGMngt_2mC66OUzhwT13dIL_onhpf5QZnxWdEeQLDNf27innmxxDCd33AgYdq_vBiffH7_ZnvEEeP_jHFaJQW5gO37-IT9BC_fJnLupK-IMWwEh8duuXnTONSYicO6dAGPIQj2Uz2y0aBSfPyHX6T2U-6ZS66HKokDb179k1RNSGGg",
+                        "q": "barista new york in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dMpN-eMrD0KqJqKTXmOmRbaYTorsMqbLfjnHPOyowSh3uyLJRi-2895NE4sSY0ZG1jISfM97oaWMMtcaw_N946B0zOicI5ZRctOm701ShlzkfxFmGr8KkqAUqN0lLfBRlZdzdINxgpE8VU6TStWiVL0IRZDfI4P7C5HQMe2VDpBFU5EGMngt_2mC66OUzhwT13dIL_onhpf5QZnxWdEeQLDNf27innmxxDCd33AgYdq_vBiffH7_ZnvEEeP_jHFaJQW5gO37-IT9BC_fJnLupK-IMWwEh8duuXnTONSYicO6dAGPIQj2Uz2y0aBSfPyHX6T2U-6ZS66HKokDb179k1RNSGGg&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dgYXTXO1EA-e5yxdoGQRs9jBYMkLVr_YPdL7PUGl1-wcxYNcHiQanXxvryuLuebsrovcyZzCzhujGlMFeR8GD0Y1vozIg7KaSFjevef7HPV_qmneEsjmVh1WxybjkpTI8kIFNuh8JgIU1YmdxID33Qre_ZMmpMmG5b0xCk-kDEPu1wNj7RQ-m6K5o_jg1F8oGuiF5xekldic4x_Dc4kHvo7tt7jZJ9fl4Dcy2YPDBSty_gajMPnnbbqVt6oxUKwJiA0uWMUKOUYO7FTHf-VyHdcCdsLeBKwKQrBcXSI0mSyA_mKw82NWt16T5oliCOaAgmwq1vFLmQaIFwuNYLGEp431ECAA",
+                        "q": "barista new york in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dgYXTXO1EA-e5yxdoGQRs9jBYMkLVr_YPdL7PUGl1-wcxYNcHiQanXxvryuLuebsrovcyZzCzhujGlMFeR8GD0Y1vozIg7KaSFjevef7HPV_qmneEsjmVh1WxybjkpTI8kIFNuh8JgIU1YmdxID33Qre_ZMmpMmG5b0xCk-kDEPu1wNj7RQ-m6K5o_jg1F8oGuiF5xekldic4x_Dc4kHvo7tt7jZJ9fl4Dcy2YPDBSty_gajMPnnbbqVt6oxUKwJiA0uWMUKOUYO7FTHf-VyHdcCdsLeBKwKQrBcXSI0mSyA_mKw82NWt16T5oliCOaAgmwq1vFLmQaIFwuNYLGEp431ECAA&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d4S1CdXeDK1FX5VAFbrJzWUN9ZSAjr-BQmkY8qW2_Jw4ckWn2WWJTk5eybi5dLND6TddH5gfLO_2Hrvn0RUjBVfmVz35sQioVmK6hI8Mo24j1VGPhoKVygiLNBz4xRoSaLlHfmraOFKR4Qg96XIZKVD5CyXCU5Set0mULrjldGI8hT_tWlRhOlMhK8UlBwDJuhl97hPWpunaf-dHwgXf4P9HwZw40MO0RxCXh_mHu4IjX4D9AKpbdPEeo2GNdHF9SIr46jWiGM7a4ADqHYZ13nyFMyNOXBzqAg6InadyQBIvUFFx8teQau4PEDKpFZe_kzyWGTQ",
+                        "q": "barista new york full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d4S1CdXeDK1FX5VAFbrJzWUN9ZSAjr-BQmkY8qW2_Jw4ckWn2WWJTk5eybi5dLND6TddH5gfLO_2Hrvn0RUjBVfmVz35sQioVmK6hI8Mo24j1VGPhoKVygiLNBz4xRoSaLlHfmraOFKR4Qg96XIZKVD5CyXCU5Set0mULrjldGI8hT_tWlRhOlMhK8UlBwDJuhl97hPWpunaf-dHwgXf4P9HwZw40MO0RxCXh_mHu4IjX4D9AKpbdPEeo2GNdHF9SIr46jWiGM7a4ADqHYZ13nyFMyNOXBzqAg6InadyQBIvUFFx8teQau4PEDKpFZe_kzyWGTQ&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d4S1CdXeDK1FX5VAFbrJzWUN9ZSAjr-BQmkY8qW2_Jw6iGzIBVef8owyufPWFrL8UtZHA8uKdzT4gbxxhZ-kKG6VMW55qX-ACOA9b4mK9OseDZjEZq2Dd3Pf0LONhJKkU6KDY5Q6QpsOFdYRkzrhtQ5OPOWZXUWDkw8eywLp9QMecFOy-jP6qnu6tGTqKtzr6MCdPNQMcgo_YwpV6rOHo8nJpK0h3tRtUQINtJvRMchsQNSSD__EDGl8Fq7Z9GRSZRePzwy6yzizPqWoVPUx4mYR968D48lfEPVrerKFOvW5KdoL1BxvvaX9ih8DJw1JkGMpm8w",
+                        "q": "barista new york part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d4S1CdXeDK1FX5VAFbrJzWUN9ZSAjr-BQmkY8qW2_Jw6iGzIBVef8owyufPWFrL8UtZHA8uKdzT4gbxxhZ-kKG6VMW55qX-ACOA9b4mK9OseDZjEZq2Dd3Pf0LONhJKkU6KDY5Q6QpsOFdYRkzrhtQ5OPOWZXUWDkw8eywLp9QMecFOy-jP6qnu6tGTqKtzr6MCdPNQMcgo_YwpV6rOHo8nJpK0h3tRtUQINtJvRMchsQNSSD__EDGl8Fq7Z9GRSZRePzwy6yzizPqWoVPUx4mYR968D48lfEPVrerKFOvW5KdoL1BxvvaX9ih8DJw1JkGMpm8w&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dS782cb2BH-ZypgEGXXhIPCQlfRG-ErwqgRkD1HWEDN2WT6YCNXhI6vce0McERFqxkdvWtFKfC3WWkvkFgpMFgC2oApQNSVLcJqXEOL_b7oA3ZPWrf4QAzKXPlSbSuUmPwpyxbAoOMgybTbnZ-y2LFZ6i_FirnOCG3V_WuQC8ZyE6wimeZ0ipFvaVIJYMgGirGHtXGo1a8UpyRA4gV0qC0kyflYd_F6f7-24DLANeFo7kKk8zamflWJKa-tfrGv2jIAHtsZpVySRwWjZGCQtZ4rFzkZixr6tRMhOKPG9yrh7BFo5G879wSXoY5F12Lc9qV4LsqA",
+                        "q": "barista new york contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dS782cb2BH-ZypgEGXXhIPCQlfRG-ErwqgRkD1HWEDN2WT6YCNXhI6vce0McERFqxkdvWtFKfC3WWkvkFgpMFgC2oApQNSVLcJqXEOL_b7oA3ZPWrf4QAzKXPlSbSuUmPwpyxbAoOMgybTbnZ-y2LFZ6i_FirnOCG3V_WuQC8ZyE6wimeZ0ipFvaVIJYMgGirGHtXGo1a8UpyRA4gV0qC0kyflYd_F6f7-24DLANeFo7kKk8zamflWJKa-tfrGv2jIAHtsZpVySRwWjZGCQtZ4rFzkZixr6tRMhOKPG9yrh7BFo5G879wSXoY5F12Lc9qV4LsqA&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dTkteIHMgDmZ27x6Bot1Ye5CPn72lU_X6HeuUlNgpItMoCrVy5mbPnP8Bg25XvcMZyIM80E4m4eka3YR8JzRiKNrpmFwqYPAHxwB9LKAn2sUf9iNP0ympc8x74ski_58fMb2zd6SKnvEi_-sdy1Y_h726hvgOCpEMFzTh2gIUrCAhOU3yonpesPKEdlZBRdC0NTUW6YLcV2Tt0ipuSVBKt2AQVkX_SAxOhJ9fNqBM7d3_zFl57vaVb6rpwglzxosPH1FbFi1qZk326FTJjvgHev7K_QtjW4aRZfnJhZiiS083PPyHRgsOc6TPLeIqwfM6rKkp9g",
+                        "q": "barista new york internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=barista+new+york+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dTkteIHMgDmZ27x6Bot1Ye5CPn72lU_X6HeuUlNgpItMoCrVy5mbPnP8Bg25XvcMZyIM80E4m4eka3YR8JzRiKNrpmFwqYPAHxwB9LKAn2sUf9iNP0ympc8x74ski_58fMb2zd6SKnvEi_-sdy1Y_h726hvgOCpEMFzTh2gIUrCAhOU3yonpesPKEdlZBRdC0NTUW6YLcV2Tt0ipuSVBKt2AQVkX_SAxOhJ9fNqBM7d3_zFl57vaVb6rpwglzxosPH1FbFi1qZk326FTJjvgHev7K_QtjW4aRZfnJhZiiS083PPyHRgsOc6TPLeIqwfM6rKkp9g&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+internship"
+                }
+            ]
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dMz03oF9zsZKZk1sToh6qN-WihIfgk5kdns2UXiWhwK3x2LidOojYFdr6QrJcz0iIM3mx5ndwIh-dWk7O6J_qE8N-SQC2jvGkI-7zTQlCCnKijtb49tk9lTfCw0NH0XxaTghTqCmI-3xOpOvB5g8U08Nwj6nYTY6UexjC0Y7ZkeKjqV_d9DenGTrdKHp6GKcmGv9U8A",
+                "q": "Barista salary New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=Barista+salary+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dMz03oF9zsZKZk1sToh6qN-WihIfgk5kdns2UXiWhwK3x2LidOojYFdr6QrJcz0iIM3mx5ndwIh-dWk7O6J_qE8N-SQC2jvGkI-7zTQlCCnKijtb49tk9lTfCw0NH0XxaTghTqCmI-3xOpOvB5g8U08Nwj6nYTY6UexjC0Y7ZkeKjqV_d9DenGTrdKHp6GKcmGv9U8A&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=Barista+salary+New+York"
+        },
+        {
+            "name": "Near me",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d3O0FzXBD91oqJHyV53PBZSuXPqMizDeMT83WpzPTN3jqMPvxxk1t9hJ77kkbugL6xrYFqLn5iMyLO6d9_06VBWSKcwdw2n3rR9w0W_gmBPPgTMP2daYP9le3GFgBeNwirl8r5RQZUzDmtdD5mXu5EK7rNQYvCxiSsbya2LBo67lw66Bw",
+                "q": "Barista new york near me"
+            },
+            "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=Barista+new+york+near+me&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d3O0FzXBD91oqJHyV53PBZSuXPqMizDeMT83WpzPTN3jqMPvxxk1t9hJ77kkbugL6xrYFqLn5iMyLO6d9_06VBWSKcwdw2n3rR9w0W_gmBPPgTMP2daYP9le3GFgBeNwirl8r5RQZUzDmtdD5mXu5EK7rNQYvCxiSsbya2LBo67lw66Bw&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQxKsJegQIGBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=Barista+new+york+near+me"
+        },
+        {
+            "name": "City",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7da59IS2SwTb5yAzTa791sggZ-CUvE4HGao6J4uAKiGmZKRjSjVk2n_zjreF-JAhbBFV-DKcXVW7C_-ej_0z0MyD21qXsXrbAJmZH7Egr4Ye6qnclz1cC7XrZkmsDC_3XaGJkOGHFMbZEJ_9SPRZlbnqp1cEKcgi2LWEuZnN8hdP3z0t7E",
+                "q": "Barista new york city"
+            },
+            "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=Barista+new+york+city&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7da59IS2SwTb5yAzTa791sggZ-CUvE4HGao6J4uAKiGmZKRjSjVk2n_zjreF-JAhbBFV-DKcXVW7C_-ej_0z0MyD21qXsXrbAJmZH7Egr4Ye6qnclz1cC7XrZkmsDC_3XaGJkOGHFMbZEJ_9SPRZlbnqp1cEKcgi2LWEuZnN8hdP3z0t7E&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQxKsJegQIHBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=Barista+new+york+city"
+        },
+        {
+            "name": "Bikini",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d3O0FzXBD91oqJHyV53PBZSuXPqMizDeMT83WpzPTN3iNG_Lf28nvYIgYH3uH75Q2ApvaAZpvxymP7WNMa1UfWUVkQXuw1T9DyYC_GP9KyWnL9VPo8DDO2Nlkah9bbRgisuvEPy6H_GoKVq5lQvrCViAOHF2GJHxcbd9zRZh1z7ZKvzaOjPr13m8ZFjamB1g2DYBruQ",
+                "q": "Bikini barista New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=Bikini+barista+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d3O0FzXBD91oqJHyV53PBZSuXPqMizDeMT83WpzPTN3iNG_Lf28nvYIgYH3uH75Q2ApvaAZpvxymP7WNMa1UfWUVkQXuw1T9DyYC_GP9KyWnL9VPo8DDO2Nlkah9bbRgisuvEPy6H_GoKVq5lQvrCViAOHF2GJHxcbd9zRZh1z7ZKvzaOjPr13m8ZFjamB1g2DYBruQ&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQxKsJegQIGxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=Bikini+barista+New+York"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d_yzTKYsxAgaym1eNt5-ScDVZKM8Z4U_Bu46qY5dzEFQ_jFKLDVOrC-yQZ45Q97pbC1y2Mpdcm4R4K8wLa-Y8wlx6Mkowh_4OLwaR2OouRS-nbexVejFZkTnNfPWggbIMN4ir_YCo2nwnhFp73we2EULqAL7ubdOpCncIVsGvPNeFRU3RNEnSKRC08tqODu7VRivJWw",
+                "q": "Barista training New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=0d2d5197637c41d9&hl=en&q=Barista+training+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d_yzTKYsxAgaym1eNt5-ScDVZKM8Z4U_Bu46qY5dzEFQ_jFKLDVOrC-yQZ45Q97pbC1y2Mpdcm4R4K8wLa-Y8wlx6Mkowh_4OLwaR2OouRS-nbexVejFZkTnNfPWggbIMN4ir_YCo2nwnhFp73we2EULqAL7ubdOpCncIVsGvPNeFRU3RNEnSKRC08tqODu7VRivJWw&chips=date_type:today&udm=8&sa=X&ved=2ahUKEwjNpsuFmrGJAxXm4MkDHWXSH6sQxKsJegQIHRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?chips=date_type%3Atoday&engine=google_jobs&google_domain=google.com&hl=en&q=Barista+training+New+York"
+        }
+    ],
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

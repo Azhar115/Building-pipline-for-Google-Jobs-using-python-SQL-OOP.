@@ -1,0 +1,1111 @@
+{
+    "search_metadata": {
+        "id": "671f8ee3aab36dc899154f06",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/550fc18895b49015/671f8ee3aab36dc899154f06.json",
+        "created_at": "2024-10-28 13:17:23 UTC",
+        "processed_at": "2024-10-28 13:17:23 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=barista+new+york&hl=en&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/550fc18895b49015/671f8ee3aab36dc899154f06.html",
+        "total_time_taken": 0.99
+    },
+    "search_parameters": {
+        "q": "barista new york",
+        "engine": "google_jobs",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "filters": [
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dFAtrC3HQW8kDYh5-WHEQ_bJFflXCrgSw6FKBedomCl-bJFz2al7CWv8II2Ht3eXOGNCThay1YKem6kGFnYtoA8w-4BgwEIEeCI-XrzjLadABzhkYaEJMiCxOvGoXgPYWwSzEvhqVMb5frlb7d0jYKVLrr8Y",
+                "q": "barista new york remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFAtrC3HQW8kDYh5-WHEQ_bJFflXCrgSw6FKBedomCl-bJFz2al7CWv8II2Ht3eXOGNCThay1YKem6kGFnYtoA8w-4BgwEIEeCI-XrzjLadABzhkYaEJMiCxOvGoXgPYWwSzEvhqVMb5frlb7d0jYKVLrr8Y&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+remote"
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drPsd8LiiWHVFQWR1SIEQAJ9NEdKrgW_3YqZ9NIbuYws109vH63Ufc7_uY8aI3gygylP5Du_9iayHIzKJ1E4jOD-4XB3wsNhfvIfa-aPA5SmoGdBvhB5DfzQo154tmCO_mQWlLAbhnvylRcAN7a8wY5FSY60",
+                "q": "barista new york no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drPsd8LiiWHVFQWR1SIEQAJ9NEdKrgW_3YqZ9NIbuYws109vH63Ufc7_uY8aI3gygylP5Du_9iayHIzKJ1E4jOD-4XB3wsNhfvIfa-aPA5SmoGdBvhB5DfzQo154tmCO_mQWlLAbhnvylRcAN7a8wY5FSY60&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+no+degree"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d4S1CdXeDK1FX5VAFbrJzWVKN3t3QKPFMtVfIlYvwMbVuexH16bifXxXqc7ONWgDQYw7tquwCvzjiS2llDS4R5iksjbkF88_i_hcCwqpTMWmsFxVdInVoSC4ESRBqzB5PNyeIV0LCIlf_GOYCElQZd2OI-Wba6xgawF_o8N-nsM7L7Z9NTj4F2aTVnIjl68Ed9pQfEyJPJWbFJoWM-ToFemdswuzFO4RVapUV5eRRib6_Y8uqDoolC4-wYu7WxIMFb4UJy0calXi_rEqnFDujwR3g-QS4HIjBtaaDfHqDOOBGILBHu1uohtTM1d-2su9Qu5XwiA",
+                        "q": "barista new york since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d4S1CdXeDK1FX5VAFbrJzWVKN3t3QKPFMtVfIlYvwMbVuexH16bifXxXqc7ONWgDQYw7tquwCvzjiS2llDS4R5iksjbkF88_i_hcCwqpTMWmsFxVdInVoSC4ESRBqzB5PNyeIV0LCIlf_GOYCElQZd2OI-Wba6xgawF_o8N-nsM7L7Z9NTj4F2aTVnIjl68Ed9pQfEyJPJWbFJoWM-ToFemdswuzFO4RVapUV5eRRib6_Y8uqDoolC4-wYu7WxIMFb4UJy0calXi_rEqnFDujwR3g-QS4HIjBtaaDfHqDOOBGILBHu1uohtTM1d-2su9Qu5XwiA&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQkbEKegQICxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dBiwR1d_BB0QXA6N1VH4ZS3z7HzLxzFDNgfhHWMD8gdbRyP2IDiSAefADuWH6XNgBpL0qcesOsHPrTsuOWxvdfSeC1ZpH9qaBrepigm3nX1_jaDFseRQqlflIo3AeTjwVpcBgKsoJE74ffZp4J_OIguGJq0T-GUsiofo6j-N4-d8roGiJ5whd_6HWoy0ee1BTnEu-uL1QTpEef4gaKZZzltxG5P3NOgKTpvIp5K8IEOaUq-DDi40W5eP1K-mlmMVwuEHBTlFr1W3usN0pkoEN7cguQMnF3PqENe5EDVwikRXdJku6Xd-jJjTZuZ4b-oNjXI84iw",
+                        "q": "barista new york in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dBiwR1d_BB0QXA6N1VH4ZS3z7HzLxzFDNgfhHWMD8gdbRyP2IDiSAefADuWH6XNgBpL0qcesOsHPrTsuOWxvdfSeC1ZpH9qaBrepigm3nX1_jaDFseRQqlflIo3AeTjwVpcBgKsoJE74ffZp4J_OIguGJq0T-GUsiofo6j-N4-d8roGiJ5whd_6HWoy0ee1BTnEu-uL1QTpEef4gaKZZzltxG5P3NOgKTpvIp5K8IEOaUq-DDi40W5eP1K-mlmMVwuEHBTlFr1W3usN0pkoEN7cguQMnF3PqENe5EDVwikRXdJku6Xd-jJjTZuZ4b-oNjXI84iw&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQkbEKegQICxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d4S1CdXeDK1FX5VAFbrJzWVKN3t3QKPFMtVfIlYvwMbWw08he8uVCZTfUcJkcAEOfBqDudXJN9tiaajugW9P_SwGFQa50vtUmYzRB20yKyfgvKPkWZWFXif0rKoQzyOgAdiUa5dfogGZ2HarPsI79O5SCu52KD97NVywygmBLuo9VSr_7q7hpzWhCv7mWjZHicdx-WkUpnNoYmHxwGQ9ONz_lymKsiv1oqeAZQKMFU9obMb_0IEB5EISw0NjLl2ifJm3q-GNMzYdeD8roiq88tyiIhxbY-TnfjQWWsAZNnyheKqhZT2s3qa1HN8DlKtSicZZUWw",
+                        "q": "barista new york in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d4S1CdXeDK1FX5VAFbrJzWVKN3t3QKPFMtVfIlYvwMbWw08he8uVCZTfUcJkcAEOfBqDudXJN9tiaajugW9P_SwGFQa50vtUmYzRB20yKyfgvKPkWZWFXif0rKoQzyOgAdiUa5dfogGZ2HarPsI79O5SCu52KD97NVywygmBLuo9VSr_7q7hpzWhCv7mWjZHicdx-WkUpnNoYmHxwGQ9ONz_lymKsiv1oqeAZQKMFU9obMb_0IEB5EISw0NjLl2ifJm3q-GNMzYdeD8roiq88tyiIhxbY-TnfjQWWsAZNnyheKqhZT2s3qa1HN8DlKtSicZZUWw&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQkbEKegQICxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dTkteIHMgDmZ27x6Bot1Yewgqk38t-dwk2kDuUXIJ5ASHVSWpB9INCEg5ZUqxk7_kYmficxkOOP2PJ2Ty7f9bJeBFvLB-LqJ8yVLQtedyMukPgUJUOqgXLfHEp1kmIiCDDHBAqpq81ic9NQ4mhcWuDPi4aM38n9XF0Ms-tUgHyZkN0IxRRmTXe2FOVshjfcplayX4rUsawDwPaYo35Iidu1zY8y1uCD0SD0gBc_dj2T5OXiJwQbVHTrKRzkyNSQkuxnjcPwSRww87JOCTv_dfFNQoZvaPmoiOwaFNmq5IXYZkGg643OnVGKCR6aWSG5P0uxrtFw",
+                        "q": "barista new york in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dTkteIHMgDmZ27x6Bot1Yewgqk38t-dwk2kDuUXIJ5ASHVSWpB9INCEg5ZUqxk7_kYmficxkOOP2PJ2Ty7f9bJeBFvLB-LqJ8yVLQtedyMukPgUJUOqgXLfHEp1kmIiCDDHBAqpq81ic9NQ4mhcWuDPi4aM38n9XF0Ms-tUgHyZkN0IxRRmTXe2FOVshjfcplayX4rUsawDwPaYo35Iidu1zY8y1uCD0SD0gBc_dj2T5OXiJwQbVHTrKRzkyNSQkuxnjcPwSRww87JOCTv_dfFNQoZvaPmoiOwaFNmq5IXYZkGg643OnVGKCR6aWSG5P0uxrtFw&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQkbEKegQICxAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dtUMCZ921MfW_CTWsB8buh5uyMKSMbEPfPprKuhklqZU_ZTFylIpJYS8ZbmMUF9SI805Vw_pzb7RUyXTT3mDjRq04mrEyC6N5kONYx-TkFd7g383dpQX5rLErBY6k9-QkjYIuKUjKCttQwQcNQBj4bjCsPPbhmeS8hUDi_KOVi6TSdjsqJrMKOdGMLZlr45vgj5UMN5egzwWCSO6yeGUCIyp0ER_lJ3ssIUr2l0m0W07Kr1ZRIIAkefWspKQFF3ehA7Ly4iBMuRmDT61b6c6ujzYyLh5p6Pr3yiOVC5Se2b4uCly8",
+                        "q": "barista new york full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dtUMCZ921MfW_CTWsB8buh5uyMKSMbEPfPprKuhklqZU_ZTFylIpJYS8ZbmMUF9SI805Vw_pzb7RUyXTT3mDjRq04mrEyC6N5kONYx-TkFd7g383dpQX5rLErBY6k9-QkjYIuKUjKCttQwQcNQBj4bjCsPPbhmeS8hUDi_KOVi6TSdjsqJrMKOdGMLZlr45vgj5UMN5egzwWCSO6yeGUCIyp0ER_lJ3ssIUr2l0m0W07Kr1ZRIIAkefWspKQFF3ehA7Ly4iBMuRmDT61b6c6ujzYyLh5p6Pr3yiOVC5Se2b4uCly8&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQkbEKegQIChAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dtUMCZ921MfW_CTWsB8buh5uyMKSMbEPfPprKuhklqZVF39lJ_m58hiiQMbjIBOtjJc22VA0sFKzwosUGO9pbQL4BhwQ-714iuPuBNhBn37IMA_TLGwXz-upMfHs8MH7KX_oM2nLw6WVkHV9rJ8yFJV23ctBzlLTS1huahcrdW-PxUAmimVDGZcnnu1WZwRy-HGLfQGQdRAWC-PMgGyVqOBuX-WSQXc8_Vcb4CJetC7hrUOBMUkzCuFJVkbEkgxat9ZqJ92Z2pBAyLJzfCZzExeZ8_WdxmlLsgsgLIIhrUCQgZTgF",
+                        "q": "barista new york part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dtUMCZ921MfW_CTWsB8buh5uyMKSMbEPfPprKuhklqZVF39lJ_m58hiiQMbjIBOtjJc22VA0sFKzwosUGO9pbQL4BhwQ-714iuPuBNhBn37IMA_TLGwXz-upMfHs8MH7KX_oM2nLw6WVkHV9rJ8yFJV23ctBzlLTS1huahcrdW-PxUAmimVDGZcnnu1WZwRy-HGLfQGQdRAWC-PMgGyVqOBuX-WSQXc8_Vcb4CJetC7hrUOBMUkzCuFJVkbEkgxat9ZqJ92Z2pBAyLJzfCZzExeZ8_WdxmlLsgsgLIIhrUCQgZTgF&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQkbEKegQIChAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sYgCUsFlc16Hcw2334yv4zIRov2sW92c7sHO4z79Yv_dO1Upad-g89tyYoGTeHAdaP_xNAamE9J_GbKWV-fJ8epOG-CsQi-5_cuWcMtiwWuJH4IkslTL3J6Ph3ZZ--kZhMprY4mNnLy5DS4wd2GsYj6UNOyB_R4QlN7cb5NqdlFBCx8QTNYMpbwwKlow6UZwdFzv4Z_j66vRF6eF69xipNFbHZMqoNjyUhVFYbz-jta6XEJLEavNH9BgWqqZf7PPvh-DWFfGEDZ3u2MdTxOFm12SBusU",
+                        "q": "barista new york contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF0wXJIzXxUciGCnpiPe4sYgCUsFlc16Hcw2334yv4zIRov2sW92c7sHO4z79Yv_dO1Upad-g89tyYoGTeHAdaP_xNAamE9J_GbKWV-fJ8epOG-CsQi-5_cuWcMtiwWuJH4IkslTL3J6Ph3ZZ--kZhMprY4mNnLy5DS4wd2GsYj6UNOyB_R4QlN7cb5NqdlFBCx8QTNYMpbwwKlow6UZwdFzv4Z_j66vRF6eF69xipNFbHZMqoNjyUhVFYbz-jta6XEJLEavNH9BgWqqZf7PPvh-DWFfGEDZ3u2MdTxOFm12SBusU&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQkbEKegQIChAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCT0RdXxgV2zZ8IzalNYb8v9rLSfnaw9BPmDkX-NxkkcTw7h5OQDcEgLbf-Cl7O9lzr25BR_4hvQrZXwETIv_2tTTiijj1Q903incbVLcFd_IQuI4Bs6GVnupH257hZQLycPb8kWnCAtQjoHaeUSLBev75mf3i51CoUCIjCs4x35QSvtNOOX7dQajAzsMJ9GKNt6u_Osje0J6jFcQSptVgi9v4YBZNG1J6mhFjIcDXDHFJ-0XRZYINGRVt4uExaYwNG9zgcSmrvYB70x3AQ7Tp7fjb5xJ_dy6_uvzHW0hzs6vkafX",
+                        "q": "barista new york internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=barista+new+york+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCT0RdXxgV2zZ8IzalNYb8v9rLSfnaw9BPmDkX-NxkkcTw7h5OQDcEgLbf-Cl7O9lzr25BR_4hvQrZXwETIv_2tTTiijj1Q903incbVLcFd_IQuI4Bs6GVnupH257hZQLycPb8kWnCAtQjoHaeUSLBev75mf3i51CoUCIjCs4x35QSvtNOOX7dQajAzsMJ9GKNt6u_Osje0J6jFcQSptVgi9v4YBZNG1J6mhFjIcDXDHFJ-0XRZYINGRVt4uExaYwNG9zgcSmrvYB70x3AQ7Tp7fjb5xJ_dy6_uvzHW0hzs6vkafX&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQkbEKegQIChAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=barista+new+york+internship"
+                }
+            ]
+        },
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDUZCSsF3lMvHhuwcJ62T8lBgi6SLHIlxH19hhmQZQA-De9dEkfX8HH89vjL5UG2ohICo1nqjfPDNMI-0ZYkKGQLY7zBEHtQaihmOkBpP4a1CMjtIueLl4itkYopAUWRVtPG9FQE",
+                "q": "Barista salary New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Barista+salary+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d1DKEJbCVJnf-xyao41sDDUZCSsF3lMvHhuwcJ62T8lBgi6SLHIlxH19hhmQZQA-De9dEkfX8HH89vjL5UG2ohICo1nqjfPDNMI-0ZYkKGQLY7zBEHtQaihmOkBpP4a1CMjtIueLl4itkYopAUWRVtPG9FQE&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=Barista+salary+New+York"
+        },
+        {
+            "name": "Near me",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dFAtrC3HQW8kDYh5-WHEQ_bJFflXCrgSw6FKBedomCl97MMlJLZYkKnfDUZRdPknwdaLirhg_13j05xQQbZ-0HAiIFDmY1R1QBtVdqXtKiWahCROCslTY2nl0uTaVIpf9icdIfjmCAVlsCN3EgVI6AMC3KTU",
+                "q": "Barista new york near me"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Barista+new+york+near+me&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFAtrC3HQW8kDYh5-WHEQ_bJFflXCrgSw6FKBedomCl97MMlJLZYkKnfDUZRdPknwdaLirhg_13j05xQQbZ-0HAiIFDmY1R1QBtVdqXtKiWahCROCslTY2nl0uTaVIpf9icdIfjmCAVlsCN3EgVI6AMC3KTU&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQxKsJegQIIxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=Barista+new+york+near+me"
+        },
+        {
+            "name": "City",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0k3H2PAg-7EECU5SCFrT-SAKGcw5VPDpXZpD-eLq8VSChmPz-tdWqpCt7StykMM0aJ7mcAI2Cm8FUJkymqcz8O81uBX6NtIymV8nPzadGw76C90Seh2_-Ej3ZR6YvmLSKezmNP8",
+                "q": "Barista new york city"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Barista+new+york+city&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dhhNMlqf4oAwq9QU72Xgz0k3H2PAg-7EECU5SCFrT-SAKGcw5VPDpXZpD-eLq8VSChmPz-tdWqpCt7StykMM0aJ7mcAI2Cm8FUJkymqcz8O81uBX6NtIymV8nPzadGw76C90Seh2_-Ej3ZR6YvmLSKezmNP8&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQxKsJegQIKBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=Barista+new+york+city"
+        },
+        {
+            "name": "Bikini",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dFAtrC3HQW8kDYh5-WHEQ_bJFflXCrgSw6FKBedomCl_0G4e2WlYVFlxpcubgsH8QXV6d8_-HC3jesz1PwAGBAG9KHKxRkH7-xVMe4WstnQsmTbx2OiPAdeJZiPX82zP9DQiptdhlVlqOlPGnZTAXhTWD_Vk",
+                "q": "Bikini barista New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Bikini+barista+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFAtrC3HQW8kDYh5-WHEQ_bJFflXCrgSw6FKBedomCl_0G4e2WlYVFlxpcubgsH8QXV6d8_-HC3jesz1PwAGBAG9KHKxRkH7-xVMe4WstnQsmTbx2OiPAdeJZiPX82zP9DQiptdhlVlqOlPGnZTAXhTWD_Vk&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=Bikini+barista+New+York"
+        },
+        {
+            "name": "Training",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lmqHKY8Gcru9wlRsiqOFgg5nrfZ_fb-TMeRvVxp8PKPhaMHGvIALwtaLjdISfcvMOIiLUlka-fj8XcwQy_R0vWDpGAWiuQRlDR5RhQ2SyUkGNaTkjj_AH-zCUhMhYYhwN3fcXV71ndnOwGsg_67fVEeiRNxr",
+                "q": "Barista training New York"
+            },
+            "link": "https://www.google.com/search?sca_esv=83a0fec991001249&hl=en&q=Barista+training+New+York&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lmqHKY8Gcru9wlRsiqOFgg5nrfZ_fb-TMeRvVxp8PKPhaMHGvIALwtaLjdISfcvMOIiLUlka-fj8XcwQy_R0vWDpGAWiuQRlDR5RhQ2SyUkGNaTkjj_AH-zCUhMhYYhwN3fcXV71ndnOwGsg_67fVEeiRNxr&udm=8&sa=X&ved=2ahUKEwjx_e7QlLGJAxWGK1kFHUWmO_IQxKsJegQIJxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&q=Barista+training+New+York"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Barista",
+            "company_name": "Cafe Mado",
+            "location": "Brooklyn, NY",
+            "via": "Culinary Agents",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=8rbjkJWHafGBxqADAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=8rbjkJWHafGBxqADAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/671f8ee3aab36dc899154f06/images/89a9900c3a74d4ef2b3c1fd57151821fbe3f52d35992197e73a0ada4bce3f384.jpeg",
+            "extensions": [
+                "2 days ago",
+                "15\u201316 an hour",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "salary": "15\u201316 an hour",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Us: Cafe Mado is an upcoming all day cafe from the Redwood Hospitality, the team behind Oxalis and Place des F\u00eates. This cafe is more than just a cafe, as it is taking over the home of our Michelin-starred Oxalis (while Oxalis moves to a new location), bringing a more casual but similarly thoughtful and hospitaliy offering to a neighborhood we have called home for over five years.\n\nJob Summary: As a Barista at Cafe Mado, you will be the heart of our customer experience, responsible for crafting delicious coffee and tea beverages and serving our baked pastries and breads while providing friendly and efficient service. You will play a key role in maintaining a positive and welcoming environment for our guests. For this position, we are looking for someone with open availability.\n\nKey Responsibilities:\n\u2022 Prepare and serve coffee and tea beverages to the highest standards, ensuring consistency and quality.\n\u2022 Provide excellent customer service, including handling inquiries and providing recommendations.\n\u2022 Maintain cleanliness and organization of the coffee bar and seating areas.\n\u2022 Work collaboratively with the team to meet the bakery's goals and uphold our community-focused ethos.\n\nRequirements:\n\u2022 Proven experience as a Barista or in a similar role in the hospitality industry.\n\u2022 Passion for coffee and enthusiasm for learning about our products and menu.\n\u2022 Exceptional communication skills and a commitment to providing outstanding customer service.\n\u2022 Ability to work efficiently in a fast-paced environment and as part of a team.\n\u2022 Flexibility with scheduling, including weekends and holidays.\n\u2022 Knowledge of specialty coffee and tea preparations\n\u2022 Ability to dial in an espresso machine and grinder\n\u2022 Responsible and cleanly workplace habits\n\u2022 Milk frothing skill\n\u2022 Cash handling skills\n\u2022 Ability to work early mornings and weekends\n\nJoin Us: If you are a team player with a love for coffee and a dedication to creating memorable customer experiences, Cafe Mado is the perfect place for you. We offer a supportive work environment where you can grow and contribute to our community-focused vision.\n\nApply today to become part of the Cafe Mado family!",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Proven experience as a Barista or in a similar role in the hospitality industry",
+                        "Passion for coffee and enthusiasm for learning about our products and menu",
+                        "Exceptional communication skills and a commitment to providing outstanding customer service",
+                        "Ability to work efficiently in a fast-paced environment and as part of a team",
+                        "Flexibility with scheduling, including weekends and holidays",
+                        "Knowledge of specialty coffee and tea preparations",
+                        "Ability to dial in an espresso machine and grinder",
+                        "Responsible and cleanly workplace habits",
+                        "Milk frothing skill",
+                        "Cash handling skills",
+                        "Ability to work early mornings and weekends"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We offer a supportive work environment where you can grow and contribute to our community-focused vision"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Job Summary: As a Barista at Cafe Mado, you will be the heart of our customer experience, responsible for crafting delicious coffee and tea beverages and serving our baked pastries and breads while providing friendly and efficient service",
+                        "You will play a key role in maintaining a positive and welcoming environment for our guests",
+                        "Prepare and serve coffee and tea beverages to the highest standards, ensuring consistency and quality",
+                        "Provide excellent customer service, including handling inquiries and providing recommendations",
+                        "Maintain cleanliness and organization of the coffee bar and seating areas",
+                        "Work collaboratively with the team to meet the bakery's goals and uphold our community-focused ethos"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Culinary Agents",
+                    "link": "https://culinaryagents.com/jobs/594491-Barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYXJpc3RhIiwiY29tcGFueV9uYW1lIjoiQ2FmZSBNYWRvIiwiYWRkcmVzc19jaXR5IjoiQnJvb2tseW4sIE5ZIiwiaHRpZG9jaWQiOiI4cmJqa0pXSGFmR0J4cUFEQUFBQUFBPT0iLCJobCI6ImVuIn0="
+        },
+        {
+            "title": "Barista - NYC - Prince St.",
+            "company_name": "Chobani",
+            "location": "New York, NY",
+            "via": "Chobani Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=jy-_ZAS4ewxVA3N5AAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=jy-_ZAS4ewxVA3N5AAAAAA%3D%3D",
+            "extensions": [
+                "8 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Summary\n\nThe Barista brings La Colombe to life by creating a world-class coffee experience. Genuinely enjoys making people happy with coffee and thrives working in a fast-paced environment. Seek opportunities to learn more about our coffee, company, and the La Colombe mission. Takes pride in being part of our team and embodies all of our One Dove principles- Kindness, Respect, Deliciousness, Efficiency, and Cleanliness.\n\nResponsibilities\n\u2022 PEOPLE: Treat others with KINDNESS & RESPECT\n\u2022 Warmly welcome customers\n\u2022 Build relationships with repeat customers\n\u2022 Take the time to determine customers' coffee needs and interests and offer La Colombe products\n\u2022 Respect differences of others even when their values and ideas contrast with our own\n\u2022 Find opportunities to lead with kindness\n\u2022 Seek to understand others\n\u2022 Work cooperatively with others on the team and with leadership\n\u2022 Communicate positively and professionally\n\u2022 When respect or safety is at stake, reach out to leadership or the people team to seek resolution\n\u2022 PRODUCT: Deliver DELICIOUSNESS with EFFICIENCY\n\u2022 Display a graceful sense of urgency in completing tasks\n\u2022 Consistently meet La Colombe product recipes and quality standards\n\u2022 Serve quality beverages in a timely and engaging manner\n\u2022 Record and accurately process purchases using the POS system, collect and process payments, apply discounts according to La Colombe standards\n\u2022 Work with cafe leadership and technical department to help administer quality control\n\u2022 Complete required training in a timely manner\n\u2022 Coach fellow baristas on our quality and expectations\n\u2022 PLACE: Demonstrate cafe pride by making CLEANLINESS and safety a priority\n\u2022 Work cleanly and safely. Handle hot beverages with care\n\u2022 Clean coffee grinder, brewer, and espresso machines\n\u2022 Organize products on our shelves and restock as necessary\n\u2022 Actively identify any additional safety hazards and escalate to Cafe Leadership\n\u2022 Complete opening and closing tasks and checklists\n\u2022 Participate in weekly, monthly and quarterly deep cleans of the cafe\n\u2022 Proactively maintain and improve the appearance of the Cafe and coffee bar.\n\u2022 Sanitize and clean the cafe area as needed throughout the shift\n\nRequirements\n\u2022 People skills: Dealing with the public and team proactively, professionally, and positively.\n\u2022 Able to lift 40 lbs or more\n\u2022 Able to stand for long periods of time\n\u2022 Frequently required to use hands\n\u2022 Basic understanding of computer POS Systems\n\u2022 Ownership: Takes initiative, personally drives & takes pride in La Colombe. CARES\n\nAbout Us\n\nCompensation Range: $20.00",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "People skills: Dealing with the public and team proactively, professionally, and positively",
+                        "Able to lift 40 lbs or more",
+                        "Able to stand for long periods of time",
+                        "Frequently required to use hands",
+                        "Basic understanding of computer POS Systems",
+                        "Ownership: Takes initiative, personally drives & takes pride in La Colombe"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Compensation Range: $20.00"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Barista brings La Colombe to life by creating a world-class coffee experience",
+                        "Genuinely enjoys making people happy with coffee and thrives working in a fast-paced environment",
+                        "PEOPLE: Treat others with KINDNESS & RESPECT",
+                        "Warmly welcome customers",
+                        "Build relationships with repeat customers",
+                        "Take the time to determine customers' coffee needs and interests and offer La Colombe products",
+                        "Respect differences of others even when their values and ideas contrast with our own",
+                        "Find opportunities to lead with kindness",
+                        "Seek to understand others",
+                        "Work cooperatively with others on the team and with leadership",
+                        "Communicate positively and professionally",
+                        "When respect or safety is at stake, reach out to leadership or the people team to seek resolution",
+                        "PRODUCT: Deliver DELICIOUSNESS with EFFICIENCY",
+                        "Display a graceful sense of urgency in completing tasks",
+                        "Consistently meet La Colombe product recipes and quality standards",
+                        "Serve quality beverages in a timely and engaging manner",
+                        "Record and accurately process purchases using the POS system, collect and process payments, apply discounts according to La Colombe standards",
+                        "Work with cafe leadership and technical department to help administer quality control",
+                        "Complete required training in a timely manner",
+                        "Coach fellow baristas on our quality and expectations",
+                        "PLACE: Demonstrate cafe pride by making CLEANLINESS and safety a priority",
+                        "Work cleanly and safely",
+                        "Handle hot beverages with care",
+                        "Clean coffee grinder, brewer, and espresso machines",
+                        "Organize products on our shelves and restock as necessary",
+                        "Actively identify any additional safety hazards and escalate to Cafe Leadership",
+                        "Complete opening and closing tasks and checklists",
+                        "Participate in weekly, monthly and quarterly deep cleans of the cafe",
+                        "Proactively maintain and improve the appearance of the Cafe and coffee bar",
+                        "Sanitize and clean the cafe area as needed throughout the shift"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Chobani Careers",
+                    "link": "https://careers.chobani.com/job/New-York-Barista-NYC-Prince-St_-NY-10001/1225088400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Chobani/Job/Barista-NYC-NoHo/-in-New-York,NY?jid=e774d654a5d2e742&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=e83c27c881bd3126&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/barista-nyc-prince-st-at-la-colombe-coffee-roasters-4054495320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/BEW-DHP3swblTQxK1Y8cAVdoCrd2R-mRV4bpZe-vbAPXlq5canPgXg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/-439135032702722090?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hire Heroes USA Job Board",
+                    "link": "https://jobs.hireheroesusa.org/jobs/347206093-barista-nyc-prince-st-at-chobani?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Diversity Jobs",
+                    "link": "https://diversityjobs.com/career/9894407/Barista-Nyc-Prince-St-New-York-New-York?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYXJpc3RhIC0gTllDIC0gUHJpbmNlIFN0LiIsImNvbXBhbnlfbmFtZSI6IkNob2JhbmkiLCJhZGRyZXNzX2NpdHkiOiJOZXcgWW9yaywgTlkiLCJodGlkb2NpZCI6Imp5LV9aQVM0ZXd4VkEzTjVBQUFBQUE9PSIsImhsIjoiZW4ifQ=="
+        },
+        {
+            "title": "BARISTA",
+            "company_name": "ELOREA",
+            "location": "New York, NY",
+            "via": "ELOREA",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=yZFCzHMS8C8uK99XAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=yZFCzHMS8C8uK99XAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/671f8ee3aab36dc899154f06/images/89a9900c3a74d4ef435d1156adebe323a2aabd3750b364326277fb349d26d362.jpeg",
+            "extensions": [
+                "20\u201325 an hour",
+                "Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "salary": "20\u201325 an hour",
+                "schedule_type": "Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "About Us:\n\nELOREA combines the art of fragrance with the warmth of Korean culture. We offer a range of high-quality fragrances inspired by Korean traditions and aesthetics, along with a cozy cafe where customers can relax and indulge in aromatic delights. Our goal is to provide an immersive and enchanting experience for fragrance enthusiasts and anyone seeking a sensory journey through the world of scents.\n\nJob Description:\n\nELOREA is looking for a barista to join our team in NYC, reporting directly to the Store Manager. We\u2019re looking for a highly motivated and energetic individual who shares our passion for specialty coffee, tea, and customer service.\n\nResponsibilities:\n\u2022 Prepare specialty coffee and espresso beverages, including latte art\n\u2022 Maintain beverage safety and cleanliness standards by completing delegated tasks\n\u2022 Have an open mind to learning new things and embracing change\n\u2022 Employees are required to complete any and all training material provided to ensure full understanding of our menu and deliver excellent customer service.\n\u2022 Ensure all items are dated and following First in First Out (FIFO) standards\n\u2022 Weigh, grind, or pack coffee beans for guests according to their specifications\n\u2022 Operate the POS system ensuring accuracy of cash drops and authenticity of bills\n\u2022 Consistently able to execute tasks with efficiency and grace while maintaining a sense of urgency throughout service\n\u2022 Perform other duties as required or assigned\n\nPhysical Requirements\n\u2022 Ability to exert well-paced mobility for up to 8 hours, including standing, walking, bending, and squatting\n\u2022 Regularly lift and move up to 30 lbs (Coffee bags, milk crates, paper goods, etc.)\n\u2022 Must be able to work all operational hours\n\u2022 Fast-paced movements are required to go from one part of the space to others\n\nQualifications:\n\u2022 Knowledgeable and enthusiastic about coffee, tea, and drink preparation\n\u2022 Outstanding communication and guest service skills\n\u2022 1+ year barista experience on an automatic espresso machine preferred\n\u2022 Good problem-solving techniques and ability to do so with pace, empathy, and sometimes under pressure\n\u2022 Ability to perform simple mathematical calculations and follow directions for all production\n\u2022 Must be able to provide proof of the right to live and work in the country\n\nWe appreciate all applications, but only those selected for an interview will be contacted.\n\nELOREA is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\n$20 + per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ability to exert well-paced mobility for up to 8 hours, including standing, walking, bending, and squatting",
+                        "Regularly lift and move up to 30 lbs (Coffee bags, milk crates, paper goods, etc.)",
+                        "Fast-paced movements are required to go from one part of the space to others",
+                        "Knowledgeable and enthusiastic about coffee, tea, and drink preparation",
+                        "Outstanding communication and guest service skills",
+                        "Good problem-solving techniques and ability to do so with pace, empathy, and sometimes under pressure",
+                        "Ability to perform simple mathematical calculations and follow directions for all production",
+                        "Must be able to provide proof of the right to live and work in the country"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$20 + per hour based on qualifications"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Prepare specialty coffee and espresso beverages, including latte art",
+                        "Maintain beverage safety and cleanliness standards by completing delegated tasks",
+                        "Have an open mind to learning new things and embracing change",
+                        "Employees are required to complete any and all training material provided to ensure full understanding of our menu and deliver excellent customer service",
+                        "Ensure all items are dated and following First in First Out (FIFO) standards",
+                        "Weigh, grind, or pack coffee beans for guests according to their specifications",
+                        "Operate the POS system ensuring accuracy of cash drops and authenticity of bills",
+                        "Consistently able to execute tasks with efficiency and grace while maintaining a sense of urgency throughout service",
+                        "Perform other duties as required or assigned",
+                        "Must be able to work all operational hours"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "ELOREA",
+                    "link": "https://elorea.com/pages/barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "City Boy Coffee",
+                    "link": "https://cityboycoffee.com/job/1552/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/maman-tribeca/Job/Barista/-in-New-York,NY?jid=22fda8e6ce901534&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hcareers",
+                    "link": "https://www.hcareers.com/jobs/4175739-barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Paylocity",
+                    "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/2086506/B6001Test/Barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "7shifts Jobs",
+                    "link": "https://jobs.7shifts.com/87e785a7-4825-46d7-81ec-61251a7d0bcb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hospitality Online",
+                    "link": "https://www.hospitalityonline.com/jobs/4178845-barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Culinary Agents",
+                    "link": "https://culinaryagents.com/jobs/589351-Barista?ad_id=641470&client_id=CA-IN-RELATEDJOBS17&widget_name=job-detail&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCQVJJU1RBIiwiY29tcGFueV9uYW1lIjoiRUxPUkVBIiwiYWRkcmVzc19jaXR5IjoiTmV3IFlvcmssIE5ZIiwiaHRpZG9jaWQiOiJ5WkZDekhNUzhDOHVLOTlYQUFBQUFBPT0iLCJobCI6ImVuIn0="
+        },
+        {
+            "title": "Barista",
+            "company_name": "Aramark",
+            "location": "New York, NY",
+            "via": "Aramark Global Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=lT7W2GEAM7NPkQ8aAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=lT7W2GEAM7NPkQ8aAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Job Description\n\nLifeWorks Restaurant Group, an independently operated division of Aramark, designs custom solutions for clients looking to take amenities to the next level. Our team of forward-thinkers look at each opportunity as an experience\u2014not a requirement\u2014and deliver out-of-this world, truly sensory experiences, feeding your company culture. Learn more by visiting lifeworksrestaurantgroup.com.\n\nAre you looking for an exciting, fast-paced, and social experience? Here\u2019s your chance to do just that, in a role with unlimited career growth and opportunities! We\u2019re hiring full-time Baristas to be the perfect blend to our team. You\u2019ll prepare specialty drinks, assist with food preparation, and receive orders and payments, all while providing unforgettable experiences for our customers. Take your first sip in igniting your passion and pursuing what matters to you!\n\nCOMPENSATION: The hourly rate for this position ranges from $18.00 to $23.00, depending on circumstances including an applicant\u2019s skills and qualifications, certain degrees and certifications, prior job experience, market data, and other relevant factors. Additional compensation may include a bonus or commission (if relevant). This is Aramark\u2019s good faith and reasonable estimate of the range of compensation for this position as of the time of posting.\n\nIf hired, employee will be in an \u201cat-will position\u201d and Aramark reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time AND FOR ANY REASON, including, BUT NOT LIMITED TO for reasons related to individual performance, Aramark or individual department/team performance, and market factors.\n\nJob Responsibilities\n\n\u2022 Accurately operate a register/POS and handle cash and credit card transactions.\n\n\u2022 Greet and assist customers while anticipating their needs\n\n\u2022 Prepare and serve coffees, teas, specialty beverages per brand standards\n\n\u2022 Prepares and serve food items in line with location standards\n\n\u2022 Count, organize and balance cash drawer, fill out the cashier slip and make deposits\n\n\u2022 Adheres to Aramark\u2019s cash handling policies and procedures\n\n\u2022 Set up and breakdown coffee bar, stations or store including cleaning and sanitizing\n\n\u2022 Maintain clean and sanitary work area\n\n\u2022 Stock beverage coolers, grab and go items, service ware and condiments\n\n\u2022 Follow health, safety, and sanitation guidelines for all products\n\n\u2022 Other duties as assigned by management\n\nAt Aramark, developing new skills and doing what it takes to get the job done make a positive impact for our employees and for our customers. In order to meet our commitments, job duties may change or new ones may be assigned without formal notice.\n\nQualifications\n\n\u2022 Previous customer service experience preferred\n\n\u2022 Previous cash handling experience preferred\n\n\u2022 Previous experience as a barista preferred\n\n\u2022 Basic math & counting skills required\n\n\u2022 Must be able to work independently with limited supervision\n\n\u2022 Must follow required dress code as assigned\n\n\u2022 Able to read and communicate in English and able to follow recipes\n\n\u2022 Complete Food Handling Certification as required\n\nThis role may have physical demands including, but not limited to, lifting, bending, pushing, pulling and/or extended walking and standing. This role may also require uniforms and/or usage of Personal Protective Equipment (PPE).\n\nEducation\n\nAbout Aramark\n\nOur Mission\n\nRooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet.\n\nAt Aramark, we believe that every employee should enjoy equal employment opportunity and be free to participate in all aspects of the company. We do not discriminate on the basis of race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, protected veteran status or other characteristics protected by applicable law.\n\nAbout Aramark\n\nThe people of Aramark proudly serve millions of guests every day through food and facilities in 15 countries around the world. Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. We believe a career should develop your talents, fuel your passions, and empower your professional growth. So, no matter what you're pursuing - a new challenge, a sense of belonging, or just a great place to work - our focus is helping you reach your full potential. Learn more about working here at http://www.aramarkcareers.com or connect with us on Facebook, Instagram and Twitter.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Basic math & counting skills required",
+                        "Must be able to work independently with limited supervision",
+                        "Must follow required dress code as assigned",
+                        "Able to read and communicate in English and able to follow recipes",
+                        "Complete Food Handling Certification as required",
+                        "This role may also require uniforms and/or usage of Personal Protective Equipment (PPE)"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "COMPENSATION: The hourly rate for this position ranges from $18.00 to $23.00, depending on circumstances including an applicant\u2019s skills and qualifications, certain degrees and certifications, prior job experience, market data, and other relevant factors",
+                        "Additional compensation may include a bonus or commission (if relevant)",
+                        "This is Aramark\u2019s good faith and reasonable estimate of the range of compensation for this position as of the time of posting",
+                        "If hired, employee will be in an \u201cat-will position\u201d and Aramark reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time AND FOR ANY REASON, including, BUT NOT LIMITED TO for reasons related to individual performance, Aramark or individual department/team performance, and market factors"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You\u2019ll prepare specialty drinks, assist with food preparation, and receive orders and payments, all while providing unforgettable experiences for our customers",
+                        "Accurately operate a register/POS and handle cash and credit card transactions",
+                        "Greet and assist customers while anticipating their needs",
+                        "Prepare and serve coffees, teas, specialty beverages per brand standards",
+                        "Prepares and serve food items in line with location standards",
+                        "Count, organize and balance cash drawer, fill out the cashier slip and make deposits",
+                        "Adheres to Aramark\u2019s cash handling policies and procedures",
+                        "Set up and breakdown coffee bar, stations or store including cleaning and sanitizing",
+                        "Maintain clean and sanitary work area",
+                        "Stock beverage coolers, grab and go items, service ware and condiments",
+                        "Follow health, safety, and sanitation guidelines for all products",
+                        "Other duties as assigned by management",
+                        "This role may have physical demands including, but not limited to, lifting, bending, pushing, pulling and/or extended walking and standing"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Aramark Global Careers",
+                    "link": "https://aramarkcareers.com/UnitedStates/job/New-York-Barista-NY-10007/1226536800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=c7dab669a4bd9c22&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/MA.GE.GA.-FOOD-LLC/Job/BARISTA/-in-New-York,NY?jid=726b61b891e227ce&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ISS World Careers Jobs - Recruiting.com",
+                    "link": "https://issjobs.recruiting.com/barista/job/28559330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Paylocity",
+                    "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/1394290/Heritage-Grand-Bakery/Barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hireology",
+                    "link": "https://careers.hireology.com/themarkhotel/2034073/description?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "7shifts Jobs",
+                    "link": "https://jobs.7shifts.com/b3d81eea-f936-4081-8ed9-ccbaecbd7847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hospitality Online",
+                    "link": "https://www.hospitalityonline.com/es/jobs/4178845-barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYXJpc3RhIiwiY29tcGFueV9uYW1lIjoiQXJhbWFyayIsImFkZHJlc3NfY2l0eSI6Ik5ldyBZb3JrLCBOWSIsImh0aWRvY2lkIjoibFQ3VzJHRUFNN05Qa1E4YUFBQUFBQT09IiwiaGwiOiJlbiJ9"
+        },
+        {
+            "title": "Barista",
+            "company_name": "Sugar Butter Chocolate",
+            "location": "Brooklyn, NY",
+            "via": "Culinary Agents",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=5MGIa91uWp9m24wLAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=5MGIa91uWp9m24wLAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/671f8ee3aab36dc899154f06/images/89a9900c3a74d4ef5b30fcd6fecd81502cc05d28dd8f2df58e9543cc3ee0ef65.jpeg",
+            "extensions": [
+                "5 days ago",
+                "16 an hour",
+                "Part-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "salary": "16 an hour",
+                "schedule_type": "Part-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Sugar Butter Chocolate is a Brooklyn-based cafe dedicated to delivering innovative and nostalgic treats that evoke a sense of childlike wonder. We reimagine beloved childhood classics to create unique and flavorful experiences for our customers.\n\nRole Description\n\nThis is a full-time on-site role for a Barista at Sugar, Butter, Chocolate in Brooklyn, NY. The Barista will be responsible for daily food and beverage preparation, crafting specialty coffee drinks, providing excellent customer service, and maintaining a clean and organized workspace.\n\nQualifications\n\u2022 Barista and Food Preparation skills\n\u2022 Excellent interpersonal and communication skills\n\u2022 Customer service-oriented mindset\n\u2022 Ability to work in a fast-paced environment\n\u2022 Knowledge of coffee brewing techniques and equipment\n\u2022 Attention to detail and ability to follow recipes\n\u2022 Prior experience in a cafe or restaurant setting is a plus\n\u2022 High school diploma or equivalent",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Barista and Food Preparation skills",
+                        "Excellent interpersonal and communication skills",
+                        "Customer service-oriented mindset",
+                        "Ability to work in a fast-paced environment",
+                        "Knowledge of coffee brewing techniques and equipment",
+                        "Attention to detail and ability to follow recipes",
+                        "High school diploma or equivalent"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This is a full-time on-site role for a Barista at Sugar, Butter, Chocolate in Brooklyn, NY",
+                        "The Barista will be responsible for daily food and beverage preparation, crafting specialty coffee drinks, providing excellent customer service, and maintaining a clean and organized workspace"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Culinary Agents",
+                    "link": "https://culinaryagents.com/jobs/594152-Barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Craigslist",
+                    "link": "https://newyork.craigslist.org/brk/fbh/d/brooklyn-barista-needed-bedstuy-days/7796084582.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYXJpc3RhIiwiY29tcGFueV9uYW1lIjoiU3VnYXIgQnV0dGVyIENob2NvbGF0ZSIsImFkZHJlc3NfY2l0eSI6IkJyb29rbHluLCBOWSIsImh0aWRvY2lkIjoiNU1HSWE5MXVXcDltMjR3TEFBQUFBQT09IiwiaGwiOiJlbiJ9"
+        },
+        {
+            "title": "Barista | Soho Manhattan",
+            "company_name": "Blank Street",
+            "location": "New York, NY",
+            "via": "Greenhouse",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=KqBcdRmFd7EnaorVAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=KqBcdRmFd7EnaorVAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/671f8ee3aab36dc899154f06/images/89a9900c3a74d4ef8d828eeb4f0dda6f9203c2effb259dbb134260100a277de6.png",
+            "extensions": [
+                "Full-time and Part-time",
+                "No degree mentioned",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time and Part-time",
+                "qualifications": "No degree mentioned",
+                "paid_time_off": true
+            },
+            "description": "About Blank Street\n\nAt Blank Street, we believe great coffee should be an everyday ritual. With shops across Brooklyn, Manhattan, Boston, DC, and London, we\u2019re the first-ever brand to offer affordable high-quality coffee. Blank Street originated in an effort to change the specialty coffee status quo. Starting with small-format shops and continuing with a limited menu and top-of-the-line tech, we\u2019ve always been focused on simplifying the coffee experience. We partner with amazing local vendors and brands, and have some of the best baristas out there on our team. Love coffee and customer service? Keep reading.\n\nWhat's Brewing...\n\nBlank Street is launching The Green Room, our first-ever concept store in Soho, New York City that will act as a product innovation and brand expression hub. In essence, the Green Room is just like any other Blank Street: it\u2019s a daily ritual destination that enriches customers\u2019 lives, with great coffee and friendly hospitality. There are two key areas that sets this store apart from the rest of Blank Street\u2019s fleet:\n\u2022 Rotating Menu: This store will feature an exclusive rotating menu of beverages that you won\u2019t see anywhere else. These beverages will be out-of-the-box, innovative, and conceptual in nature.\n\u2022 The Window: The store features a secondary point of sale - a hole-in-the-wall window that will be activated with rotating brand concepts.\n\nBaristas at Blank Street must be able to work independently, while also thriving in a team environment. The right person for this role is a proven people-person, taking pride in giving amazing service experiences. You are customer centric and believe in serving a carefully curated menu with passion and precision, making every effort to give your customers exactly what they need, every day, in their way.\n\nOur Values\n\u2022 Magic is in the Details: We value attention to detail in everything we do. We're always thinking about the small things that make a moment meaningful.\n\u2022 Move as One: We value people who strive to be the best team player, not individual stars.\n\u2022 \u201cMy Home is your Home\u201d Hospitality: We look for individuals who treat others the same way they'd treat a guest in their home. We care about presentation, hospitality, and having fun even when things are stressful.\n\nWho you are:\n\u2022 A friendly and enthusiastic team player with a passion for excellent customer service; you\u2019re always ready to make your customers\u2019 day\n\u2022 A reliable employee who is able to effectively manage time and priorities, including during busy rush periods where a sense of urgency is necessary\n\u2022 Passionate about creating delicious coffee and other cafe beverages\n\u2022 A strong independent problem solver with proven multi-tasking and communication skills\n\u2022 Someone who is curious, adaptable and always willing to learn\n\u2022 Comfortable working in a team or independently\n\u2022 Comfortable with cash-handling and maintaining store safety\n\u2022 Open to working in Soho, New York City\n\nWhat you'll own:\n\u2022 Delight our customers with consistent, welcoming and engaging customer service, taking the opportunity to turn every customer into a regular\n\u2022 Work within a world-class coffee program using the best coffee equipment (the eversys cameos and shotmasters) and product in the industry to prepare the tastiest drinks\n\u2022 Complete all training to ensures proper measures are in place to achieve the correct handling of food and beverage to retain its freshness and quality\n\u2022 Have systems in place to avoid wastage of product with both food and beverage, following and adjusting par levels where needed in line with business peaks and lows\n\u2022 Maintains NYC Department of Health and Mental Hygiene (DOH) standards at all times\n\u2022 Full and complete knowledge and adherence to all product, service and brand training playbooks\n\u2022 Participates in all initiatives with the Operations and marketing teams to increase foot traffic, new customers, daily sales, and operational profitability and develop a loyal neighborhood customer base\n\nRequirements:\n\u2022 Experience in the customer service or hospitality industry\n\u2022 18+ years of age\n\u2022 Able to lift 25+ lbs, and to stand for long periods of time\n\u2022 Availability that meets the needs of our cafes\n\u2022 Part Time: 15-25 hours per week, 3 days of availability required and must be available to work 2 peak days (Peak days: Friday, Saturday, Sunday)\n\u2022 Full Time: 30-40 hours per week, 4-5 days of availability required and must be available to work 2 peak days (Peak days: Friday, Saturday, Sunday)\n\u2022 Weekend and holiday availability preferred\n\u2022 You must be authorized to work in the U.S.: upon acceptance of a job offer and completion of the Form I-9 with acceptable documents, Blank Street will provide the federal government with employees\u2019 Form I-9 information to confirm authorization to work in the U.S. (a process known as \u201dE-Verify\u201d).\n\nPerks:\n\u2022 $16.50-$17.50/ hour starting + tips\n\u2022 Barista accreditation/ training program\n\u2022 Paid sick time\n\u2022 As a growing company we have opportunities for advancement for those interested\n\nApplication & Interview Process:\n\u2022 Application Review\n\u2022 Hiring Manager In Person Interview\n\u2022 Offer\n\nIf you have 2+ years\u2019 experience in a customer service leadership position and are interested in a shift leader position, check out the application here.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Baristas at Blank Street must be able to work independently, while also thriving in a team environment",
+                        "The right person for this role is a proven people-person, taking pride in giving amazing service experiences",
+                        "A friendly and enthusiastic team player with a passion for excellent customer service; you\u2019re always ready to make your customers\u2019 day",
+                        "A reliable employee who is able to effectively manage time and priorities, including during busy rush periods where a sense of urgency is necessary",
+                        "Passionate about creating delicious coffee and other cafe beverages",
+                        "A strong independent problem solver with proven multi-tasking and communication skills",
+                        "Someone who is curious, adaptable and always willing to learn",
+                        "Comfortable working in a team or independently",
+                        "Comfortable with cash-handling and maintaining store safety",
+                        "Open to working in Soho, New York City",
+                        "Maintains NYC Department of Health and Mental Hygiene (DOH) standards at all times",
+                        "Experience in the customer service or hospitality industry",
+                        "18+ years of age",
+                        "Able to lift 25+ lbs, and to stand for long periods of time",
+                        "Availability that meets the needs of our cafes",
+                        "Part Time: 15-25 hours per week, 3 days of availability required and must be available to work 2 peak days (Peak days: Friday, Saturday, Sunday)",
+                        "Full Time: 30-40 hours per week, 4-5 days of availability required and must be available to work 2 peak days (Peak days: Friday, Saturday, Sunday)",
+                        "You must be authorized to work in the U.S.: upon acceptance of a job offer and completion of the Form I-9 with acceptable documents, Blank Street will provide the federal government with employees\u2019 Form I-9 information to confirm authorization to work in the U.S. (a process known as \u201dE-Verify\u201d)"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$16.50-$17.50/ hour starting + tips",
+                        "Barista accreditation/ training program",
+                        "Paid sick time",
+                        "As a growing company we have opportunities for advancement for those interested"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Window: The store features a secondary point of sale - a hole-in-the-wall window that will be activated with rotating brand concepts",
+                        "You are customer centric and believe in serving a carefully curated menu with passion and precision, making every effort to give your customers exactly what they need, every day, in their way",
+                        "Delight our customers with consistent, welcoming and engaging customer service, taking the opportunity to turn every customer into a regular",
+                        "Work within a world-class coffee program using the best coffee equipment (the eversys cameos and shotmasters) and product in the industry to prepare the tastiest drinks",
+                        "Complete all training to ensures proper measures are in place to achieve the correct handling of food and beverage to retain its freshness and quality",
+                        "Have systems in place to avoid wastage of product with both food and beverage, following and adjusting par levels where needed in line with business peaks and lows",
+                        "Full and complete knowledge and adherence to all product, service and brand training playbooks",
+                        "Participates in all initiatives with the Operations and marketing teams to increase foot traffic, new customers, daily sales, and operational profitability and develop a loyal neighborhood customer base"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Greenhouse",
+                    "link": "https://boards.greenhouse.io/blankstreet/jobs/5883325003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=fb42d50d5a25e0c1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Blank-Street/Job/Barista-%7C-Lower-Manhattan/-in-New-York,NY?jid=4b9264f2e4a31ad9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/barista-midtown-manhattan-blank-street-JV_IC1132348_KO0,25_KE26,38.htm?jl=1008940542942&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Huzzle",
+                    "link": "https://www.huzzle.app/jobs/barista-lower-manhattan-898768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/barista-west-village-chelsea-manhattan-at-blank-street-3744899264?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/4805352779?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Salary.com",
+                    "link": "https://www.salary.com/job/blank-street/barista-midtown-manhattan/j202310240152166971984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYXJpc3RhIHwgU29obyBNYW5oYXR0YW4iLCJjb21wYW55X25hbWUiOiJCbGFuayBTdHJlZXQiLCJhZGRyZXNzX2NpdHkiOiJOZXcgWW9yaywgTlkiLCJodGlkb2NpZCI6IktxQmNkUm1GZDdFbmFvclZBQUFBQUE9PSIsImhsIjoiZW4ifQ=="
+        },
+        {
+            "title": "Barista - New York",
+            "company_name": "Blue Bottle Coffee",
+            "location": "New York, NY",
+            "via": "Lever",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=VnCe-tf3isYj49KwAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=VnCe-tf3isYj49KwAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/671f8ee3aab36dc899154f06/images/89a9900c3a74d4ef6997bb87066feb78b1aa862b717500a9a972ef8643fe3301.png",
+            "extensions": [
+                "11 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned",
+                "paid_time_off": true,
+                "health_insurance": true,
+                "dental_coverage": true
+            },
+            "description": "At Blue Bottle, our mission is to connect the world to delicious coffee. From seed to cup, we elevate the craft of coffee in everything we do. We strive to build a better tomorrow by investing in what matters: a sustainable future for our people, the company, and our planet.\n\nAbout the Job\n\nAt Blue Bottle Coffee, a Barista is someone who is passionate about coffee, culinary items, sustainability, and creating incredible guest experiences grounded in care and respect. We invite you to grow as a team member and create community through coffee with us.\n\nYou will\n\u2022 Deliver exceptional hospitality to our guests, your fellow teammates, and all of our vendors and suppliers\n\u2022 Make and serve a selection of delicious beverages with a variety of different brewing and preparation methods\n\u2022 Prepare and serve delicious food\n\u2022 Stay knowledgeable about Blue Bottle\u2019s current beverage and food offerings and preparation techniques; continuously cultivating your own curiosity and knowledge through in-house tastings, cuppings, and trainings\n\u2022 Taste our Blue Bottle beverages regularly to ensure quality, uphold our standards, and develop your palate\n\u2022 Create community in our cafes by sharing your joy and knowledge of coffee with our guests; inspire your fellow teammates to do the same\n\u2022 Support your team by taking joy in the tasks that keep the cafe running smoothly and beautifully\u2014these tasks may vary but can include cleaning, clearing and washing dishes, sweeping, dusting, mopping, cleaning and organizing condiment stations, and taking out trash\n\u2022 Be passionate about the planet and help us achieve our company-wide sustainability goals\n\u2022 Uphold and follow all health, food safety, and safety guidelines\n\u2022 Promote a safe and respectful working environment\n\nYou are\n\u2022 Searching for a career in food and beverage with a dynamic, growing company\n\u2022 Passionate about coffee, food, and creating inclusive hospitality experiences\n\u2022 Reliable and consistent\u2014your leader and teammates can always depend on you to be punctual and bring your A game\n\u2022 Thoughtful and able to anticipate our guests\u2019 needs\n\u2022 Obsessed with the details! You love honing your craft and understand the nourishing powers in each cup of coffee and each plate of delicious food\n\u2022 Excited about taking on new experiences and possess a can-do attitude\n\u2022 Eligible to work in the United States and 18 years of age or older\n\nYou have\n\u2022 Basic math and computer skills\n\u2022 A flexible schedule and are available to work mornings, evenings, weekends, and holidays\n\nA few benefits we offer\n\u2022 Comprehensive Health, dental, and vision coverage for eligible employees starting on your first day\n\u2022 Best-in-class coffee training and continuing education\n\u2022 Free membership into Specialty Coffee Association of America and discounts on events (including Expos and Championships)\n\u2022 401(k) plan\n\u2022 Paid time off & paid volunteer hours\n\u2022 50% discount on all products, both online and in-cafe. This includes food, beverages, whole bean coffee, and merchandise.\n\u2022 2 free drinks during shifts for cafe team members\n\u2022 Flexible spending account & commuter benefits\n\u2022 Employee Assistance Program\n\nCompensation\n\u2022 $17.50 per hour + tips averaging approximately $6-$9 dollars per shift hour.\n\nOur Barista position is a dynamic one! Below we\u2019ve mapped out the physical demands that are essential to the role\n\u2022 Ability to stand and walk for long periods of time. You\u2019re on your feet the majority of the day, whether you are standing behind bar pulling shots or walking the cafe floor\n\u2022 Use of hands to reach, grip, turn and perform precision work. You\u2019re using your hands to operate beautiful espresso machines, pour delicious pour overs, and operate the register (among other responsibilities)\n\u2022 As needed squat, bend, twist and reach for items below waist level or above shoulders. For example, you may have to bend down or reach up to grab cups, lids and towels\n\u2022 Ability to lift, push/pull, carry and/or move up to 50 pounds. For example, you\u2019ll be handling bags of coffee beans, coffee kegs, crates of milk, tub of dishes and trash bins\n\u2022 As needed climb ladders, stairs, ramps and uneven floor and/or surfaces. For example, climb on a step stool to change menu slacks, go up and down stairs and ramps to storage areas\n\u2022 Ability to smell and taste. You\u2019re tasting and smelling coffee and food, helping ensure quality control for each cup and plate\n\u2022 Ability to listen and speak. You\u2019re listening and speaking with our guests to take and fill orders, and guide and create experiences\n\n$17.50 - $17.50 an hour\n\nBlue Bottle is an Equal Opportunity Employer. We value an open mind, dedication to work, and a collaborative spirit. We hire based on these qualities, a job\u2019s requirements, our business\u2019s needs, and an applicant\u2019s qualifications. We do not tolerate discrimination or harassment of any kind\u2014in the hiring process or in the workplace.\n\nWe comply with the ADA and provide reasonable accommodations that allow qualified applicants/employees to perform the essential functions of the job. We also provide reasonable religious accommodations to applicants/employees to allow them to practice their bona fide religious beliefs. To request an accommodation, contact your People Partner.\n\nWe may refuse to hire relatives of present employees if doing so could result in actual or potential problems in supervision, security, safety, or morale, or if doing so could other create conflicts of interest.\n\nWe will consider for employment qualified applicants with arrest and conviction records.\n\nWe participate in E-Verify. We will provide the federal government with employees\u2019 Form I-9 information to confirm authorization to work in the U.S. We will only use E-Verify once an employee has accepted a job offer and completed the Form I-9.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Searching for a career in food and beverage with a dynamic, growing company",
+                        "Passionate about coffee, food, and creating inclusive hospitality experiences",
+                        "Reliable and consistent\u2014your leader and teammates can always depend on you to be punctual and bring your A game",
+                        "Thoughtful and able to anticipate our guests\u2019 needs",
+                        "Obsessed with the details!",
+                        "You love honing your craft and understand the nourishing powers in each cup of coffee and each plate of delicious food",
+                        "Excited about taking on new experiences and possess a can-do attitude",
+                        "Eligible to work in the United States and 18 years of age or older",
+                        "Basic math and computer skills",
+                        "Ability to stand and walk for long periods of time",
+                        "You\u2019re on your feet the majority of the day, whether you are standing behind bar pulling shots or walking the cafe floor",
+                        "As needed squat, bend, twist and reach for items below waist level or above shoulders",
+                        "For example, you may have to bend down or reach up to grab cups, lids and towels",
+                        "Ability to lift, push/pull, carry and/or move up to 50 pounds",
+                        "For example, you\u2019ll be handling bags of coffee beans, coffee kegs, crates of milk, tub of dishes and trash bins",
+                        "For example, climb on a step stool to change menu slacks, go up and down stairs and ramps to storage areas",
+                        "You\u2019re tasting and smelling coffee and food, helping ensure quality control for each cup and plate",
+                        "Ability to listen and speak"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "A flexible schedule and are available to work mornings, evenings, weekends, and holidays",
+                        "A few benefits we offer",
+                        "Comprehensive Health, dental, and vision coverage for eligible employees starting on your first day",
+                        "Best-in-class coffee training and continuing education",
+                        "Free membership into Specialty Coffee Association of America and discounts on events (including Expos and Championships)",
+                        "401(k) plan",
+                        "Paid time off & paid volunteer hours",
+                        "50% discount on all products, both online and in-cafe",
+                        "This includes food, beverages, whole bean coffee, and merchandise",
+                        "2 free drinks during shifts for cafe team members",
+                        "Flexible spending account & commuter benefits",
+                        "Employee Assistance Program",
+                        "$17.50 per hour + tips averaging approximately $6-$9 dollars per shift hour",
+                        "$17.50 - $17.50 an hour"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Deliver exceptional hospitality to our guests, your fellow teammates, and all of our vendors and suppliers",
+                        "Make and serve a selection of delicious beverages with a variety of different brewing and preparation methods",
+                        "Prepare and serve delicious food",
+                        "Stay knowledgeable about Blue Bottle\u2019s current beverage and food offerings and preparation techniques; continuously cultivating your own curiosity and knowledge through in-house tastings, cuppings, and trainings",
+                        "Taste our Blue Bottle beverages regularly to ensure quality, uphold our standards, and develop your palate",
+                        "Create community in our cafes by sharing your joy and knowledge of coffee with our guests; inspire your fellow teammates to do the same",
+                        "Support your team by taking joy in the tasks that keep the cafe running smoothly and beautifully\u2014these tasks may vary but can include cleaning, clearing and washing dishes, sweeping, dusting, mopping, cleaning and organizing condiment stations, and taking out trash",
+                        "Be passionate about the planet and help us achieve our company-wide sustainability goals",
+                        "Uphold and follow all health, food safety, and safety guidelines",
+                        "Promote a safe and respectful working environment",
+                        "Use of hands to reach, grip, turn and perform precision work",
+                        "You\u2019re using your hands to operate beautiful espresso machines, pour delicious pour overs, and operate the register (among other responsibilities)",
+                        "As needed climb ladders, stairs, ramps and uneven floor and/or surfaces",
+                        "Ability to smell and taste",
+                        "You\u2019re listening and speaking with our guests to take and fill orders, and guide and create experiences"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/bluebottlecoffee/4685b642-94fb-419d-87a2-162c2a78a898?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=57d130cbb6135570&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Tishman-Speyer/Job/Helper-New-York-(Local-94)/-in-New-York,NY?jid=9097c95cf91f94cb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "NEJM CareerCenter",
+                    "link": "https://www.nejmcareercenter.org/job/811206/gastroenterologist-new-york/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "DocCafe",
+                    "link": "https://www.doccafe.com/job/physician/urogynecology/4007399/urogynecologist-new-york?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Physician Career Network",
+                    "link": "https://physicians.associationcareernetwork.com/job/gastroenterologist-new-york/75213219/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/helper-new-york-local-94-tishman-speyer-JV_IC1132348_KO0,24_KE25,39.htm?jl=1008219050865&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/barista-new-york-at-blue-bottle-coffee-4054235446?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYXJpc3RhIC0gTmV3IFlvcmsiLCJjb21wYW55X25hbWUiOiJCbHVlIEJvdHRsZSBDb2ZmZWUiLCJhZGRyZXNzX2NpdHkiOiJOZXcgWW9yaywgTlkiLCJodGlkb2NpZCI6IlZuQ2UtdGYzaXNZajQ5S3dBQUFBQUE9PSIsImhsIjoiZW4ifQ=="
+        },
+        {
+            "title": "Barista",
+            "company_name": "The Mark Hotel",
+            "location": "New York, NY",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=ftAr7-pWX_bQ_PWUAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=ftAr7-pWX_bQ_PWUAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/671f8ee3aab36dc899154f06/images/89a9900c3a74d4ef269a983e409c96f8278c8f71e703446664513b5cea91d35b.jpeg",
+            "extensions": [
+                "4 days ago",
+                "800\u20131.1K a week",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "salary": "800\u20131.1K a week",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "High volume restaurant in one of New York's most affluent neighborhoods. High check average, can average $950.00 gross per week.\n\n$800 to $1100 per week with tips.\n\nStatement of Purpose:\n\nThe Barista's priorities and responsibilities are to exceed our guest's expectations by providing them with the highest level of consistent, professional and courteous service.\n\nPrimary Duties:\n\nThe Mark by Jean-Georges Values and Mission Statement while performing positional responsibilities.\nTo adhere to company policies and procedures, as stated in the company Handbook.\nTo provide the highest quality service to guests at all times, by instilling the Jean-Georges philosophy \"The client is king\".\nTo treat every guest, employee and vendor with respect and dignity.\nTo report to work on time and in proper uniform, always punching in and out as required of all employees.\nTo promote teamwork within the restaurant, creating a positive work environment.\nTo properly execute all necessary steps of service.\nEnsure the highest levels of cleanliness and organization throughout the restaurant at all times.\nTo provide exemplary service to all guests by applying knowledge of service and the food and beverage menus.\nAttend Pre-Shift Daily\nPerform other job related activities as required or assigned by the supervisor.\nComplete a positional training program with validation measures throughout.\nRespond positively to any guest's requests.\nTo be present and participate in all monthly training seminars\nTo execute daily side work with enthusiasm and motivation.\nTo follow direction from the Chef.\nTo establish communication at all time with the Culinary department.\nRequirements:\n\nProficient in all aspects of fine dining service\nKnowledge of food and beverage as well as a passion to cultivate this skill.\nMay be required to lift up to 30 lbs. occasionally\nPossess a proven track record for guest satisfaction\nDisplays a confident and professional appearance and meets company grooming standards.\nA team player that understands vision of short and long term goals and has an ability to multitask.\nAttention to detail and ability to meet deadlines.\n\nEducation and Experience:\n\nTwo years prior front of the house experience in a high volume, upscale dining establishment preferred.\n\nOther:\n\nMay be required to lift up to 30 lbs. occasionally. Available to work late nights, holidays and long days as necessary.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Proficient in all aspects of fine dining service",
+                        "Knowledge of food and beverage as well as a passion to cultivate this skill",
+                        "May be required to lift up to 30 lbs. occasionally",
+                        "Possess a proven track record for guest satisfaction",
+                        "Displays a confident and professional appearance and meets company grooming standards",
+                        "A team player that understands vision of short and long term goals and has an ability to multitask",
+                        "Attention to detail and ability to meet deadlines",
+                        "May be required to lift up to 30 lbs. occasionally",
+                        "Available to work late nights, holidays and long days as necessary"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "High check average, can average $950.00 gross per week",
+                        "$800 to $1100 per week with tips"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Barista's priorities and responsibilities are to exceed our guest's expectations by providing them with the highest level of consistent, professional and courteous service",
+                        "The Mark by Jean-Georges Values and Mission Statement while performing positional responsibilities",
+                        "To adhere to company policies and procedures, as stated in the company Handbook",
+                        "To provide the highest quality service to guests at all times, by instilling the Jean-Georges philosophy \"The client is king\"",
+                        "To treat every guest, employee and vendor with respect and dignity",
+                        "To report to work on time and in proper uniform, always punching in and out as required of all employees",
+                        "To promote teamwork within the restaurant, creating a positive work environment",
+                        "To properly execute all necessary steps of service",
+                        "Ensure the highest levels of cleanliness and organization throughout the restaurant at all times",
+                        "To provide exemplary service to all guests by applying knowledge of service and the food and beverage menus",
+                        "Attend Pre-Shift Daily",
+                        "Perform other job related activities as required or assigned by the supervisor",
+                        "Complete a positional training program with validation measures throughout",
+                        "Respond positively to any guest's requests",
+                        "To be present and participate in all monthly training seminars",
+                        "To execute daily side work with enthusiasm and motivation",
+                        "To follow direction from the Chef",
+                        "To establish communication at all time with the Culinary department"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/The-Mark-Hotel/Job/Barista/-in-New-York,NY?jid=5875168b36fae3bd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=a277d5bdfc05241f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Culinary Agents",
+                    "link": "https://culinaryagents.com/jobs/589249-Barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/barista-at-la-colombe-coffee-roasters-4048239977?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/uTLP78Q0ChDOrTCluITEjH6RuegAXYdyu5Kh4kyyQx1O3lxE7pEQfQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Job Today",
+                    "link": "https://jobtoday.com/us/job/barista-yGDKOj?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Harri",
+                    "link": "https://harri.com/Gregorys-GC25/job/1826985-barista?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/5624583924470423461?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYXJpc3RhIiwiY29tcGFueV9uYW1lIjoiVGhlIE1hcmsgSG90ZWwiLCJhZGRyZXNzX2NpdHkiOiJOZXcgWW9yaywgTlkiLCJodGlkb2NpZCI6ImZ0QXI3LXBXWF9iUV9QV1VBQUFBQUE9PSIsImhsIjoiZW4ifQ=="
+        },
+        {
+            "title": "barista - Store# 07608, 48TH AND LEXINGTON",
+            "company_name": "Starbucks Coffee Company",
+            "location": "New York, NY",
+            "via": "Starbucks Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=ID8u3xiaeNkDpL8FAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=ID8u3xiaeNkDpL8FAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/671f8ee3aab36dc899154f06/images/89a9900c3a74d4ef55de59c0beabb3e52764ec46bc6ee913041049010953c466.png",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "dental_coverage": true,
+                "health_insurance": true,
+                "paid_time_off": true
+            },
+            "description": "Join us and inspire with every cup!\n\nAt Starbucks, it\u2019s all about connection. People are at the heart of who we are, especially the people that are a part of our store team. We connect with each other, our customers and our communities to make a positive impact every day. We believe in working together to make a difference and in celebrating our shared success, which is why we call ourselves Starbucks \u201cpartners.\u201d Starbucks is a place of warmth and belonging, where everyone is welcome, and we value the unique experiences that each partner brings to our team!\n\nAs a Starbucks barista, you\u2019ll create the Starbucks Experience for our customers through excellent service and expertly-crafted products. You\u2019ll be in an energetic store environment where you\u2019ll have the ability to master your food & beverage craft, work alongside friends and meet new people every day. A cup of coffee and smile can go a long way, and we believe our baristas have the power to be the best moment in each customer\u2019s day. True to Our Mission & Values, working together we can nurture the limitless possibilities of human connection.\n\nYou\u2019d make a great barista if you:\n\u2022 Consider yourself a \u201cpeople person,\u201d and enjoy meeting others.\n\u2022 Love working as a team and appreciate the chance to collaborate.\n\u2022 Understand how to create a great customer service experience.\n\u2022 Have a focus on quality and take pride in your work.\n\u2022 Are open to learning new things (especially the latest beverage recipe!)\n\u2022 Are comfortable with responsibilities like cash-handling and store safety.\n\u2022 Can keep cool and calm in a fast-paced, energetic work environment.\n\u2022 Can maintain a clean and organized workspace.\n\u2022 Have excellent communications skills.\n\nFrom free coffee to competitive pay, Starbucks is proud to offer a comprehensive compensation and benefits package to our eligible part-time and full-time partners. Benefits include 100% tuition coverage through our Starbucks College Achievement Plan, health coverage with a variety of plans to choose from, and stock & savings programs like our equity reward program, Bean Stock. What\u2019s more, Starbucks offers flexible scheduling and opportunities for paid time off. Visit starbucksbenefits.com for details.\n\nBenefit Information\n\nSummary of Experience\n\u2022 No previous experience required\n\nBasic Qualifications\n\u2022 Maintain regular and consistent attendance and punctuality, with or without reasonable accommodation\n\u2022 Available to work flexible hours that may include early mornings, evenings, weekends, nights and/or holidays\n\u2022 Meet store operating policies and standards, including providing quality beverages and food products, cash handling and store safety and security, with or without reasonable accommodation\n\u2022 Engage with and understand our customers, including discovering and responding to customer needs through clear and pleasant communication\n\u2022 Prepare food and beverages to standard recipes or customized for customers, including recipe changes such as temperature, quantity of ingredients or substituted ingredients\n\u2022 Available to perform many different tasks within the store during each shift\n\nRequired Knowledge, Skills and Abilities\n\u2022 Ability to learn quickly\n\u2022 Ability to understand and carry out oral and written instructions and request clarification when needed\n\u2022 Strong interpersonal skills\n\u2022 Ability to work as part of a team\n\u2022 Ability to build relationships\n\nAs a Starbucks partner, you (and your family) will have access to medical, dental, vision, basic and supplemental life insurance, and other voluntary insurance benefits. Partners have access to short-term and long-term disability, paid parental leave, family expansion reimbursement, paid vacation that accrues starting at .01961 hours based on a 40 hour week up to 40 hours annually (64 hours in California) after an introductory period, sick time (accrued at 1 hour for every 25 or 30 hours worked, depending on work location), and additional pay if working on one of eight observed holidays. Starbucks also offers eligible partners participation in a 401(k)-retirement plan with employer match, a discounted company stock program (S.I.P.), Starbucks equity program (Bean Stock), incentivized emergency savings, and financial well-being tools. Additionally, Starbucks offers 100% upfront tuition coverage for a first-time bachelor\u2019s degree through Arizona State University\u2019s online program via the Starbucks College Achievement Plan, student loan management resources, and access to other educational opportunities. You will also have access to backup care and DACA reimbursement. Starbucks will comply with any applicable state and local laws regarding employee leave benefits, including, but not limited to providing time off pursuant to the Colorado Healthy Families and Workplaces Act, in accordance with its plans and policies. This list is subject to change depending on collective bargaining in locations where partners have a certified bargaining representative.\n\nFor additional information regarding partner perks and more detailed information regarding benefits, go to starbucksbenefits.com.\n\nAt Starbucks, it is typical for new partners to be hired at the entry point of the range for their role, which is based upon geographic location. Individual compensation decisions are dependent upon the facts and circumstances of each position and candidate.\n\nStarbucks is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, physical or mental disability, sexual orientation, marital status, military or veteran status, gender identity and expression, genetic information, or any other factor protected by law.\n\nWe are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.\n\nQualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Consider yourself a \u201cpeople person,\u201d and enjoy meeting others",
+                        "Love working as a team and appreciate the chance to collaborate",
+                        "Understand how to create a great customer service experience",
+                        "Are open to learning new things (especially the latest beverage recipe!)",
+                        "Are comfortable with responsibilities like cash-handling and store safety",
+                        "Can keep cool and calm in a fast-paced, energetic work environment",
+                        "Can maintain a clean and organized workspace",
+                        "Have excellent communications skills",
+                        "No previous experience required",
+                        "Maintain regular and consistent attendance and punctuality, with or without reasonable accommodation",
+                        "Available to work flexible hours that may include early mornings, evenings, weekends, nights and/or holidays",
+                        "Meet store operating policies and standards, including providing quality beverages and food products, cash handling and store safety and security, with or without reasonable accommodation",
+                        "Engage with and understand our customers, including discovering and responding to customer needs through clear and pleasant communication",
+                        "Required Knowledge, Skills and Abilities",
+                        "Ability to learn quickly",
+                        "Ability to understand and carry out oral and written instructions and request clarification when needed",
+                        "Strong interpersonal skills",
+                        "Ability to work as part of a team",
+                        "Ability to build relationships"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "From free coffee to competitive pay, Starbucks is proud to offer a comprehensive compensation and benefits package to our eligible part-time and full-time partners",
+                        "Benefits include 100% tuition coverage through our Starbucks College Achievement Plan, health coverage with a variety of plans to choose from, and stock & savings programs like our equity reward program, Bean Stock",
+                        "What\u2019s more, Starbucks offers flexible scheduling and opportunities for paid time off",
+                        "As a Starbucks partner, you (and your family) will have access to medical, dental, vision, basic and supplemental life insurance, and other voluntary insurance benefits",
+                        "Partners have access to short-term and long-term disability, paid parental leave, family expansion reimbursement, paid vacation that accrues starting at .01961 hours based on a 40 hour week up to 40 hours annually (64 hours in California) after an introductory period, sick time (accrued at 1 hour for every 25 or 30 hours worked, depending on work location), and additional pay if working on one of eight observed holidays",
+                        "Starbucks also offers eligible partners participation in a 401(k)-retirement plan with employer match, a discounted company stock program (S.I.P.), Starbucks equity program (Bean Stock), incentivized emergency savings, and financial well-being tools",
+                        "Additionally, Starbucks offers 100% upfront tuition coverage for a first-time bachelor\u2019s degree through Arizona State University\u2019s online program via the Starbucks College Achievement Plan, student loan management resources, and access to other educational opportunities",
+                        "You will also have access to backup care and DACA reimbursement",
+                        "Starbucks will comply with any applicable state and local laws regarding employee leave benefits, including, but not limited to providing time off pursuant to the Colorado Healthy Families and Workplaces Act, in accordance with its plans and policies",
+                        "For additional information regarding partner perks and more detailed information regarding benefits, go to starbucksbenefits.com"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You\u2019ll be in an energetic store environment where you\u2019ll have the ability to master your food & beverage craft, work alongside friends and meet new people every day",
+                        "Have a focus on quality and take pride in your work",
+                        "Prepare food and beverages to standard recipes or customized for customers, including recipe changes such as temperature, quantity of ingredients or substituted ingredients",
+                        "Available to perform many different tasks within the store during each shift"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Starbucks Careers",
+                    "link": "https://apply.starbucks.com/careers/job/481062112243-barista-store-07608-48th-and-lexington-511-lexington-avenue-new-york-new-york-united-states?domain=starbucks.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LocalJobs.com",
+                    "link": "https://www.localjobs.com/job/new-york-ny-barista-store-23557-57th-and-10th-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=372497a85d755818&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/barista-store-20679-87th-and-third-starbucks-JV_IC1132348_KO0,34_KE35,44.htm?jl=1009446976220&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job-listing/barista-store-and-broadway-starbucks-new-york-ny-_v2_-7-526051561.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Snagajob",
+                    "link": "https://www.snagajob.com/jobs/974407320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "New York Part Time Jobs",
+                    "link": "https://nyparttime.usnlx.com/new-york-ny/barista-store-07277-23rd-and-park/D63B799F4A4C4C899E6FD640E13B8367/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Nexxt",
+                    "link": "https://www.nexxt.com/jobs/barista-store-07277-23rd-and-park-new-york-ny-2772031608-job.html?aff=2ED44C72-8FD2-4B5D-BC54-2F623E88BE26&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJiYXJpc3RhIC0gU3RvcmUjIDA3NjA4LCA0OFRIIEFORCBMRVhJTkdUT04iLCJjb21wYW55X25hbWUiOiJTdGFyYnVja3MgQ29mZmVlIENvbXBhbnkiLCJhZGRyZXNzX2NpdHkiOiJOZXcgWW9yaywgTlkiLCJodGlkb2NpZCI6IklEOHUzeGlhZU5rRHBMOEZBQUFBQUE9PSIsImhsIjoiZW4ifQ=="
+        },
+        {
+            "title": "Barista, Patina at MLB",
+            "company_name": "Delaware North",
+            "location": "New York, NY",
+            "via": "Careers At Delaware North",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=barista+new+york&htidocid=tl_qzvo7J0hjesJPAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=barista+new+york&htidocid=tl_qzvo7J0hjesJPAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/671f8ee3aab36dc899154f06/images/89a9900c3a74d4ef67e9ed32e095fe5ed146d36ac71d7f699fcf1275269b5383.png",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned",
+                "paid_time_off": true,
+                "dental_coverage": true,
+                "health_insurance": true
+            },
+            "description": "The Opportunity\n\nDelaware North's Patina Restaurant Group is hiring a full-time Barista to join our team at Patina at MLB in New York, New York. As a Barista, you will deliver excellent guest service through mastery of coffee knowledge and recipes, educating teammates and customers, and making beverages to brand specifications.\n\nPlease note this is a tipped position, the hourly minimum pay listed doesn\u2019t include any potential tipped earnings.\nPay\n\nPlease note this is a tipped position, the hourly minimum pay listed doesn\u2019t include any potential tipped earnings.\n\n$18.00 - $20.00 / hour\nInformation on our comprehensive benefits package can be found at https://careers.delawarenorth.com/whatweoffer.\n\nBenefits\n\nWe care about our team member\u2019s personal and professional well-being. Delaware North provides a benefits package designed to give you the comfort, safety, and security you need to deliver exceptional experiences for our guests. All team members receive benefits including:\n\u2022 Weekly pay\n\u2022 Employee assistance program\n\u2022 Training and development opportunities\n\u2022 Employee discounts\n\u2022 Flexible work schedules\n\nEligible team members may also receive: health, dental, and vision insurance, 401(k) with company match, paid vacation days and holidays, paid parental bonding leave, and tuition and/or professional certification reimbursement.\n\nResponsibilities\n\u2022 Greet guests acquaint guests with items and use suggestive selling techniques.\n\u2022 Serve food and beverage items in correct proportions, following all health, safety, and proper sanitation guidelines.\n\u2022 Assist in opening or closing of the location.\n\u2022 Perform clean-up duties to maintain the quality appearance of the work area, including cleaning equipment.\n\u2022 Properly record all transactions via the point of sale system and inform guests of the amount owed.\n\u2022 Collect the proper money for food and beverage items; process credit cards or determine correct change for guests.\n\u2022 Account for all transactions; maintain accurate cash count and balance banks at end of shift.\n\u2022 Perform other duties as assigned.\nQualifications\n\u2022 1 year related experience is required.\nPhysical Requirements\n\u2022 Constant standing, walking, bending, reaching, and repetitive motions.\n\u2022 Ability to remain stationary for the entire length of shift.\n\u2022 Ability to perform normal lifting of stock up to 50 pounds.\nShift Details\n\nDay shift\nMonday to Friday\nWho We Are\n\nPatina Restaurant Group is a leader in the premium segment of the restaurant and catering industry, operating restaurants and managing catering and food service operations at high-profile venues including, Lincoln Center, Walt Disney World\u00ae, Disneyland\u00ae, the Empire State Building, Grand Central Station, and The Metropolitan Opera. Patina Restaurant Group was recently named one of America's Top 25 restaurant groups by Nation's Restaurant News.\n\nAt Delaware North, you\u2019ll love where you work, who you work with, and how your day unfolds. Whether it\u2019s in sporting venues, casinos, airports, national parks, iconic hotels, or premier restaurants, there\u2019s no telling where your career can ultimately take you. We empower you to do great work in a company with 100 years of success, stability and growth. If you have drive and enjoy the thrill of making things happen - share our vision and grow with us.\n\nDelaware North Companies, Incorporated and its subsidiaries consider applicants for all positions without regard to race, color, religion, creed, gender, national origin, age, disability, marital or veteran status, sexual orientation, or any other legally protected status. Delaware North is an equal opportunity employer.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "1 year related experience is required",
+                        "Constant standing, walking, bending, reaching, and repetitive motions",
+                        "Ability to remain stationary for the entire length of shift",
+                        "Ability to perform normal lifting of stock up to 50 pounds"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$18.00 - $20.00 / hour",
+                        "Information on our comprehensive benefits package can be found at https://careers.delawarenorth.com/whatweoffer",
+                        "All team members receive benefits including:",
+                        "Weekly pay",
+                        "Employee assistance program",
+                        "Training and development opportunities",
+                        "Employee discounts",
+                        "Flexible work schedules",
+                        "Eligible team members may also receive: health, dental, and vision insurance, 401(k) with company match, paid vacation days and holidays, paid parental bonding leave, and tuition and/or professional certification reimbursement"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Barista, you will deliver excellent guest service through mastery of coffee knowledge and recipes, educating teammates and customers, and making beverages to brand specifications",
+                        "Greet guests acquaint guests with items and use suggestive selling techniques",
+                        "Serve food and beverage items in correct proportions, following all health, safety, and proper sanitation guidelines",
+                        "Assist in opening or closing of the location",
+                        "Perform clean-up duties to maintain the quality appearance of the work area, including cleaning equipment",
+                        "Properly record all transactions via the point of sale system and inform guests of the amount owed",
+                        "Collect the proper money for food and beverage items; process credit cards or determine correct change for guests",
+                        "Account for all transactions; maintain accurate cash count and balance banks at end of shift",
+                        "Perform other duties as assigned"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Careers At Delaware North",
+                    "link": "https://careers.delawarenorth.com/job/36622/Barista-Patina-at-MLB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Delaware-North/Job/Barista,-Patina-at-MLB/-in-New-York,NY?jid=5f4b67528312d73a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=1748df0dcea7558f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/YW4W0SWgXdrtfZ2QOGmnTLuPcb6a9dl9pTS_7aHwm-yxpgpMCPc5dw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/barista-patina-at-mlb-at-delaware-north-4056091660?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/barista-patina-at-mlb-delaware-north-JV_IC1132348_KO0,21_KE22,36.htm?jl=1009497795936&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/4911325413?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lensa",
+                    "link": "https://lensa.com/job-v1/delaware-north/new-york-ny/barista/20769f80c215ec43446e5b15feef6a3a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYXJpc3RhLCBQYXRpbmEgYXQgTUxCIiwiY29tcGFueV9uYW1lIjoiRGVsYXdhcmUgTm9ydGgiLCJhZGRyZXNzX2NpdHkiOiJOZXcgWW9yaywgTlkiLCJodGlkb2NpZCI6InRsX3F6dm83SjBoamVzSlBBQUFBQUE9PSIsImhsIjoiZW4ifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVxSURDdUlDUVVwSE9VcHJVRnB2YzFVM00zSnpVa1J3TlU5VFYyZElZVEJSV1Y5NGFuZzJNWEIzT0ZSSVpVcDZXWEJPYjJGTVMzcFVUVUZKVUMxSWN6QnNRbVJPZW5kMFFua3pSSFU1V1dSR1RGVkdjbWxHUTBOU1IyaG5OR2hXWTE5RGFGZ3pZek5NY1hOd1ozWnlURnByTlZGV1ZUTk1SbUpXTmxac1gyWXdkMUpXVG1NeE1UQjZUREpQU1daRmRVSlZMWEpoZGxOWWNHSlJXbGhSWkZsRVdFMTFPVTVrVFd0Q1dIZHRXR2hJVFdOd1MzcENha3BRTWxscU1XNWtiV2w1T1dvdGMxSTRMVXMwVUVWMlZETk1WbWc1VlRKUlIyWXpiRTVLYkVkclVsQTNaakI1U0VKTlJsQXhialIyV0dkR2NWZ3lhVzgyVEZveFZ6QnhRV2hNVjBwUFFYRmtOaTFhTTAwMVZVMWhORzU0VXpab1RsZHZiM2RVVmpSTFQzRldZM1EwUjJGblkzWkRSRGR4YUZOU01UWlBhMVI2ZVdwdlpFbGFZVk4wYkc1c01uQmhNR3RTWkRSTk9HcFZTMlZWY1Y5dFpEWnZORXBMVldsU2RGZG9jMUJWUVRoQkVoYzFTVFJtV2w5SU4wWkpZbGcxVG05UWVHTjZkV3RST0JvaVFVWllja1ZqY1Y5bmJ6WTNaazFKYmpONFZYSmZPRkZvVVZnM1VVNTRkWE5KWnciLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVxSURDdUlDUVVwSE9VcHJVRnB2YzFVM00zSnpVa1J3TlU5VFYyZElZVEJSV1Y5NGFuZzJNWEIzT0ZSSVpVcDZXWEJPYjJGTVMzcFVUVUZKVUMxSWN6QnNRbVJPZW5kMFFua3pSSFU1V1dSR1RGVkdjbWxHUTBOU1IyaG5OR2hXWTE5RGFGZ3pZek5NY1hOd1ozWnlURnByTlZGV1ZUTk1SbUpXTmxac1gyWXdkMUpXVG1NeE1UQjZUREpQU1daRmRVSlZMWEpoZGxOWWNHSlJXbGhSWkZsRVdFMTFPVTVrVFd0Q1dIZHRXR2hJVFdOd1MzcENha3BRTWxscU1XNWtiV2w1T1dvdGMxSTRMVXMwVUVWMlZETk1WbWc1VlRKUlIyWXpiRTVLYkVkclVsQTNaakI1U0VKTlJsQXhialIyV0dkR2NWZ3lhVzgyVEZveFZ6QnhRV2hNVjBwUFFYRmtOaTFhTTAwMVZVMWhORzU0VXpab1RsZHZiM2RVVmpSTFQzRldZM1EwUjJGblkzWkRSRGR4YUZOU01UWlBhMVI2ZVdwdlpFbGFZVk4wYkc1c01uQmhNR3RTWkRSTk9HcFZTMlZWY1Y5dFpEWnZORXBMVldsU2RGZG9jMUJWUVRoQkVoYzFTVFJtV2w5SU4wWkpZbGcxVG05UWVHTjZkV3RST0JvaVFVWllja1ZqY1Y5bmJ6WTNaazFKYmpONFZYSmZPRkZvVVZnM1VVNTRkWE5KWnciLCJmY3YiOiIzIn0%3D&q=barista+new+york"
+    }
+}
